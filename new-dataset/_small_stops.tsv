@@ -1,0 +1,1756 @@
+stop_id	stop_name	parent_station
+IDFM:monomodalStopPlace:47052	Courcelle-sur-Yvette	IDFM:62951
+IDFM:monomodalStopPlace:43246	La Ferté-sous-Jouarre	IDFM:68918
+IDFM:monomodalStopPlace:47187	Verneuil-l'Étang	IDFM:62471
+IDFM:monomodalStopPlace:43228	Les Baconnets	IDFM:69622
+IDFM:monomodalStopPlace:47955	Saint-Ouen-l'Aumône Quartier de l'Église	IDFM:66731
+IDFM:monomodalStopPlace:46647	Achères Ville	IDFM:73604
+IDFM:monomodalStopPlace:43111	Clamart	IDFM:70505
+IDFM:monomodalStopPlace:43176	Pantin	IDFM:72421
+IDFM:monomodalStopPlace:43088	Bellevue	IDFM:69528
+IDFM:monomodalStopPlace:47937	L'Étang-la-Ville	IDFM:73603
+IDFM:monomodalStopPlace:43071	Aulnay-sous-Bois	IDFM:72646
+IDFM:monomodalStopPlace:48964	Saint-Leu-la-Forêt	IDFM:66452
+IDFM:monomodalStopPlace:47486	Lizy-sur-Ourcq	IDFM:69237
+IDFM:monomodalStopPlace:47897	Cergy Saint-Christophe	IDFM:66858
+IDFM:monomodalStopPlace:45814	Saint-Fargeau	IDFM:62172
+IDFM:monomodalStopPlace:427872	Lagny - Thorigny	IDFM:68494
+IDFM:monomodalStopPlace:473159	Deuil - Montmagny	IDFM:65562
+IDFM:monomodalStopPlace:46007	La Croix de Berny	IDFM:69813
+IDFM:monomodalStopPlace:47943	Mouroux	IDFM:67944
+IDFM:monomodalStopPlace:47199	Faremoutiers - Pommeuse	IDFM:67917
+IDFM:monomodalStopPlace:43211	Vaires - Torcy	IDFM:68419
+IDFM:monomodalStopPlace:58718	Haussmann Saint-Lazare	IDFM:73688
+IDFM:monomodalStopPlace:415091	Pont de l'Alma	IDFM:71271
+IDFM:monomodalStopPlace:44877	Saint-Michel Notre-Dame	IDFM:73620
+IDFM:monomodalStopPlace:43164	Mitry - Claye	IDFM:69065
+IDFM:monomodalStopPlace:47767	Sèvres - Ville-d'Avray	IDFM:70686
+IDFM:monomodalStopPlace:48489	Orangis Bois de l'Épine	IDFM:60542
+IDFM:monomodalStopPlace:47880	La Celle-Saint-Cloud	IDFM:64251
+IDFM:monomodalStopPlace:58267	Les Boullereaux Champigny	IDFM:73098
+IDFM:monomodalStopPlace:43076	Épinay-sur-Orge	IDFM:60915
+IDFM:monomodalStopPlace:47046	La Hacquinière	IDFM:62825
+IDFM:monomodalStopPlace:46689	Viroflay Rive Droite	IDFM:422420
+IDFM:monomodalStopPlace:45850	Le Bras de Fer	IDFM:60422
+IDFM:monomodalStopPlace:43105	Cernay	IDFM:65752
+IDFM:monomodalStopPlace:411396	Crépy-en-Valois	IDFM:411397
+IDFM:monomodalStopPlace:43146	La Varenne - Chennevières	IDFM:72998
+IDFM:monomodalStopPlace:47925	Breuillet - Bruyères-le-Châtel	IDFM:60028
+IDFM:monomodalStopPlace:43216	Vaucresson	IDFM:70705
+IDFM:monomodalStopPlace:47967	Vosves	IDFM:61850
+IDFM:monomodalStopPlace:47950	Sermaise	IDFM:59842
+IDFM:monomodalStopPlace:43117	Coulommiers	IDFM:67920
+IDFM:monomodalStopPlace:47907	Pont de Rungis Aéroport d'Orly	IDFM:69677
+IDFM:monomodalStopPlace:47181	Provins	IDFM:62139
+IDFM:monomodalStopPlace:44201	Noisy-le-Sec	IDFM:72041
+IDFM:monomodalStopPlace:473875	Nation	IDFM:71673
+IDFM:monomodalStopPlace:46847	Gare de Villiers Neauphle Pontchartrain	IDFM:424296
+IDFM:monomodalStopPlace:43234	Le Parc de Saint-Maur	IDFM:70359
+IDFM:monomodalStopPlace:470549	La Défense	IDFM:71517
+IDFM:monomodalStopPlace:43094	Boissy-Saint-Léger	IDFM:72881
+IDFM:monomodalStopPlace:43123	Fontaine-le-Port	IDFM:61767
+IDFM:monomodalStopPlace:411332	Boran-sur-Oise	IDFM:411333
+IDFM:monomodalStopPlace:47962	Trilport	IDFM:68984
+IDFM:monomodalStopPlace:47874	Poissy	IDFM:64883
+IDFM:monomodalStopPlace:47948	Ris-Orangis	IDFM:60839
+IDFM:monomodalStopPlace:43235	Le Perray	IDFM:62804
+IDFM:monomodalStopPlace:43104	Cergy le Haut	IDFM:66834
+IDFM:monomodalStopPlace:43077	Épinay-sur-Seine	IDFM:72383
+IDFM:monomodalStopPlace:45873	Auber	IDFM:478926
+IDFM:monomodalStopPlace:45745	Évry - Val de Seine	IDFM:60522
+IDFM:monomodalStopPlace:47009	Palaiseau	IDFM:63175
+IDFM:monomodalStopPlace:43170	Nanterre Université	IDFM:70956
+IDFM:monomodalStopPlace:45763	Boissise-le-Roi	IDFM:61943
+IDFM:monomodalStopPlace:43217	Vaux-sur-Seine	IDFM:66338
+IDFM:monomodalStopPlace:43195	Sèvres Rive Gauche	IDFM:463754
+IDFM:monomodalStopPlace:411418	La Borne Blanche	IDFM:411419
+IDFM:monomodalStopPlace:43205	Suresnes Mont Valérien	IDFM:70829
+IDFM:monomodalStopPlace:43169	Nanterre Préfecture	IDFM:70945
+IDFM:monomodalStopPlace:47145	Héricy	IDFM:61658
+IDFM:monomodalStopPlace:43152	Lognes	IDFM:68123
+IDFM:monomodalStopPlace:47115	Saint-Martin d'Étampes	IDFM:59531
+IDFM:monomodalStopPlace:43122	Drancy	IDFM:72652
+IDFM:monomodalStopPlace:58759	Charles de Gaulle - Etoile	IDFM:71347
+IDFM:monomodalStopPlace:43083	Igny	IDFM:63352
+IDFM:monomodalStopPlace:43833	Luxembourg	IDFM:71161
+IDFM:monomodalStopPlace:43157	Mantes-la-Jolie	IDFM:65931
+IDFM:monomodalStopPlace:43175	Palaiseau - Villebon	IDFM:63067
+IDFM:monomodalStopPlace:47533	Bruyères-sur-Oise	IDFM:67325
+IDFM:monomodalStopPlace:45739	Juvisy	IDFM:478505
+IDFM:monomodalStopPlace:46975	Issou - Porcheville	IDFM:65668
+IDFM:monomodalStopPlace:44314	Péreire Levallois	IDFM:71453
+IDFM:monomodalStopPlace:43241	Chaville Rive Droite	IDFM:69503
+IDFM:monomodalStopPlace:47580	Frépillon	IDFM:66798
+IDFM:monomodalStopPlace:47879	Neuville Université	IDFM:66436
+IDFM:monomodalStopPlace:45820	Le Plessis Chenet	IDFM:60006
+IDFM:monomodalStopPlace:43116	Cormeilles-en-Parisis	IDFM:65399
+IDFM:monomodalStopPlace:47968	Les Noues	IDFM:66650
+IDFM:monomodalStopPlace:461504	Saint-Quentin en Yvelines - Montigny-le-Bretonneux	IDFM:63812
+IDFM:monomodalStopPlace:44559	Cergy Préfecture	IDFM:66696
+IDFM:monomodalStopPlace:47174	Champbenoist Poigny	IDFM:62064
+IDFM:monomodalStopPlace:411338	Trie-Château	IDFM:411339
+IDFM:monomodalStopPlace:43140	La Courneuve - Aubervilliers	IDFM:72598
+IDFM:monomodalStopPlace:45493	Pont Cardinet	IDFM:71475
+IDFM:monomodalStopPlace:47885	Plaisir - Grignon	IDFM:64199
+IDFM:monomodalStopPlace:47918	Auvers-sur-Oise	IDFM:67027
+IDFM:monomodalStopPlace:47942	Mortcerf	IDFM:67805
+IDFM:monomodalStopPlace:47901	Le Raincy - Villemomble - Montfermeil	IDFM:73297
+IDFM:monomodalStopPlace:470519	Gare de l'Est	IDFM:71359
+IDFM:monomodalStopPlace:46477	Champ de Courses d'Enghien	IDFM:65663
+IDFM:monomodalStopPlace:43223	Villiers-sur-Marne - Le Plessis-Trévise	IDFM:73097
+IDFM:monomodalStopPlace:47881	Les Mureaux	IDFM:65994
+IDFM:monomodalStopPlace:43181	Plaisir - Les Clayes	IDFM:64195
+IDFM:monomodalStopPlace:47205	Guérard - La Celle-sur-Morin	IDFM:67924
+IDFM:monomodalStopPlace:43163	Meudon Val Fleury	IDFM:70412
+IDFM:monomodalStopPlace:43084	Issy	IDFM:70612
+IDFM:monomodalStopPlace:44628	Louvres	IDFM:69300
+IDFM:monomodalStopPlace:43190	Sarcelles - Saint-Brice	IDFM:66079
+IDFM:monomodalStopPlace:47525	Viarmes	IDFM:67176
+IDFM:monomodalStopPlace:51494	Osny	IDFM:66977
+IDFM:monomodalStopPlace:43145	La Plaine Stade de France	IDFM:72211
+IDFM:monomodalStopPlace:474082	Noisy-le-Grand - Mont d'Est	IDFM:412697
+IDFM:monomodalStopPlace:43203	Saint-Ouen	IDFM:72126
+IDFM:monomodalStopPlace:46857	Beynes	IDFM:64338
+IDFM:monomodalStopPlace:43115	Corbeil-Essonnes	IDFM:60309
+IDFM:monomodalStopPlace:47924	Boussy-Saint-Antoine	IDFM:62596
+IDFM:monomodalStopPlace:47491	Crouy-sur-Ourcq	IDFM:69435
+IDFM:monomodalStopPlace:47951	Seugy	IDFM:67180
+IDFM:monomodalStopPlace:43133	Groslay	IDFM:65749
+IDFM:monomodalStopPlace:43109	Chilly-Mazarin	IDFM:62939
+IDFM:monomodalStopPlace:46801	Boissy-l'Aillerie	IDFM:67056
+IDFM:monomodalStopPlace:411329	Saint-Leu-d'Esserent	IDFM:411330
+IDFM:monomodalStopPlace:43215	Vauboyen	IDFM:63454
+IDFM:monomodalStopPlace:412743	Saint-Denis	IDFM:72323
+IDFM:monomodalStopPlace:47171	Sainte-Colombe Septveilles	IDFM:61961
+IDFM:monomodalStopPlace:54249	Les Clairières de Verneuil	IDFM:65985
+IDFM:monomodalStopPlace:47906	Évry - Courcouronnes	IDFM:60450
+IDFM:monomodalStopPlace:47684	Montgeron - Crosne	IDFM:63072
+IDFM:monomodalStopPlace:43078	Épinay - Villetaneuse	IDFM:65227
+IDFM:monomodalStopPlace:47930	Chars	IDFM:67352
+IDFM:monomodalStopPlace:43110	Choisy-le-Roi	IDFM:69852
+IDFM:monomodalStopPlace:47900	Val de Fontenay	IDFM:71718
+IDFM:monomodalStopPlace:58873	Brunoy	IDFM:67476
+IDFM:monomodalStopPlace:47929	Chanteloup-les-Vignes	IDFM:65443
+IDFM:monomodalStopPlace:47963	Vaucelles	IDFM:66520
+IDFM:monomodalStopPlace:43090	Bessancourt	IDFM:66672
+IDFM:monomodalStopPlace:58774	Massy - Palaiseau	IDFM:63244
+IDFM:monomodalStopPlace:53784	Le Vésinet - Centre	IDFM:64514
+IDFM:monomodalStopPlace:47130	Moret - Veneux-les-Sablons	IDFM:61410
+IDFM:monomodalStopPlace:479059	Rosny-sur-Seine	IDFM:66157
+IDFM:monomodalStopPlace:43072	Gare d'Austerlitz	IDFM:71135
+IDFM:monomodalStopPlace:422065	Le Val d'Or	IDFM:422067
+IDFM:monomodalStopPlace:43186	Robinson	IDFM:427230
+IDFM:monomodalStopPlace:44411	Pontoise	IDFM:66816
+IDFM:monomodalStopPlace:43196	Saint-Cloud	IDFM:73749
+IDFM:monomodalStopPlace:47591	Chaponval	IDFM:67016
+IDFM:monomodalStopPlace:43221	Villepreux - Les Clayes	IDFM:64145
+IDFM:monomodalStopPlace:411488	Ferrières - Fontenay	IDFM:411489
+IDFM:monomodalStopPlace:411345	Chaumont-en-Vexin	IDFM:411346
+IDFM:monomodalStopPlace:47325	Montry - Condé	IDFM:68582
+IDFM:monomodalStopPlace:43127	Le Chénay Gagny	IDFM:73266
+IDFM:monomodalStopPlace:57674	Petit Jouy Les Loges	IDFM:63594
+IDFM:monomodalStopPlace:43168	Montsoult - Maffliers	IDFM:67000
+IDFM:monomodalStopPlace:44801	Saint-Maur - Créteil	IDFM:70393
+IDFM:monomodalStopPlace:43151	Limay	IDFM:65788
+IDFM:monomodalStopPlace:462901	Ozoir-la-Ferrière	IDFM:462934
+IDFM:monomodalStopPlace:43066	Antony	IDFM:69759
+IDFM:monomodalStopPlace:47585	Mériel	IDFM:67065
+IDFM:monomodalStopPlace:43238	Gare Montparnasse	IDFM:71139
+IDFM:monomodalStopPlace:46395	Athis-Mons	IDFM:63134
+IDFM:monomodalStopPlace:43091	Bièvres	IDFM:63404
+IDFM:monomodalStopPlace:43156	Maisse	IDFM:59470
+IDFM:monomodalStopPlace:45860	Grand Bourg	IDFM:73627
+IDFM:monomodalStopPlace:58874	Bussy-Saint-Georges	IDFM:68105
+IDFM:monomodalStopPlace:53783	Chatou - Croissy	IDFM:64483
+IDFM:monomodalStopPlace:44500	Port Royal	IDFM:71106
+IDFM:monomodalStopPlace:47935	Houdan	IDFM:63893
+IDFM:monomodalStopPlace:43073	Écouen - Ézanville	IDFM:66533
+IDFM:monomodalStopPlace:43222	Villiers-le-Bel - Gonesse - Arnouville	IDFM:66009
+IDFM:monomodalStopPlace:47969	Les Vallées	IDFM:72177
+IDFM:monomodalStopPlace:58566	Gare Saint-Lazare	IDFM:71370
+IDFM:monomodalStopPlace:474069	Lozère	IDFM:63029
+IDFM:monomodalStopPlace:47590	Champagne-sur-Oise	IDFM:67241
+IDFM:monomodalStopPlace:46035	Chemin d'Antony	IDFM:69682
+IDFM:monomodalStopPlace:43126	Franconville - Le Plessis-Bouchard	IDFM:66005
+IDFM:monomodalStopPlace:43607	Laplace	IDFM:70427
+IDFM:monomodalStopPlace:415484	Égly	IDFM:60052
+IDFM:monomodalStopPlace:43209	Trappes	IDFM:463850
+IDFM:monomodalStopPlace:411387	Ormoy-Villers	IDFM:411388
+IDFM:monomodalStopPlace:43191	Sartrouville	IDFM:64918
+IDFM:monomodalStopPlace:43239	Marne-la-Vallée Chessy	IDFM:68385
+IDFM:monomodalStopPlace:47484	Isles - Armentières - Congis	IDFM:69162
+IDFM:monomodalStopPlace:45812	Ponthierry - Pringy	IDFM:61976
+IDFM:monomodalStopPlace:47886	Nogent-sur-Marne	IDFM:71590
+IDFM:monomodalStopPlace:58572	Magenta	IDFM:478733
+IDFM:monomodalStopPlace:47158	Nangis	IDFM:62168
+IDFM:monomodalStopPlace:411405	Le Plessis-Belleville	IDFM:411406
+IDFM:monomodalStopPlace:415093	Neuilly Porte Maillot	IDFM:71379
+IDFM:monomodalStopPlace:46965	Mantes Station	IDFM:65770
+IDFM:monomodalStopPlace:58270	Champigny	IDFM:73042
+IDFM:monomodalStopPlace:46307	Villeneuve-le-Roi	IDFM:69625
+IDFM:monomodalStopPlace:464040	Le Vert de Maisons	IDFM:73624
+IDFM:monomodalStopPlace:43245	Nemours - Saint-Pierre / Gare Foljuif	IDFM:61218
+IDFM:monomodalStopPlace:43103	Bures-sur-Yvette	IDFM:62851
+IDFM:monomodalStopPlace:43067	Arcueil - Cachan	IDFM:70263
+IDFM:monomodalStopPlace:43180	Pierrelaye	IDFM:66491
+IDFM:monomodalStopPlace:47875	Argenteuil	IDFM:65063
+IDFM:monomodalStopPlace:47596	Gare Épluches	IDFM:66915
+IDFM:monomodalStopPlace:44161	Montgeroult - Courcelles	IDFM:67076
+IDFM:monomodalStopPlace:43162	Meudon	IDFM:70515
+IDFM:monomodalStopPlace:43227	Les Ardoines	IDFM:70064
+IDFM:monomodalStopPlace:47911	Fontainebleau - Avon	IDFM:61579
+IDFM:monomodalStopPlace:45735	Vigneux-sur-Seine	IDFM:63071
+IDFM:monomodalStopPlace:47952	Saint-Chéron	IDFM:59882
+IDFM:monomodalStopPlace:411482	Montargis	IDFM:411483
+IDFM:monomodalStopPlace:411381	Chézy-sur-Marne	IDFM:411382
+IDFM:monomodalStopPlace:47923	Bécon les Bruyères	IDFM:72124
+IDFM:monomodalStopPlace:43144	La Grande-Paroisse	IDFM:61412
+IDFM:monomodalStopPlace:58879	Chelles - Gournay	IDFM:68407
+IDFM:monomodalStopPlace:43179	Pierrefitte - Stains	IDFM:72787
+IDFM:monomodalStopPlace:45824	Le Coudray-Montceaux	IDFM:59953
+IDFM:monomodalStopPlace:47603	Herblay	IDFM:65897
+IDFM:monomodalStopPlace:47905	Bouray	IDFM:59830
+IDFM:monomodalStopPlace:43204	Stade de France Saint-Denis	IDFM:72206
+IDFM:monomodalStopPlace:46366	Ivry-sur-Seine	IDFM:424396
+IDFM:monomodalStopPlace:47898	Ermont - Eaubonne	IDFM:65669
+IDFM:monomodalStopPlace:43121	Dourdan	IDFM:59836
+IDFM:monomodalStopPlace:43096	Bondy	IDFM:72037
+IDFM:monomodalStopPlace:43251	Garges - Sarcelles	IDFM:65582
+IDFM:monomodalStopPlace:411375	Mareuil-sur-Ourcq	IDFM:411376
+IDFM:monomodalStopPlace:47946	Presles - Courcelles	IDFM:67169
+IDFM:monomodalStopPlace:43237	Le Vésinet - Le Pecq	IDFM:64582
+IDFM:monomodalStopPlace:43102	Buno - Gironville	IDFM:59447
+IDFM:monomodalStopPlace:47928	Changis - Saint-Jean	IDFM:68980
+IDFM:monomodalStopPlace:45301	Bibliothèque François Mitterrand	IDFM:71572
+IDFM:monomodalStopPlace:46897	Meulan - Hardricourt	IDFM:66321
+IDFM:monomodalStopPlace:47876	Goussainville	IDFM:66535
+IDFM:monomodalStopPlace:43149	Lardy	IDFM:59761
+IDFM:monomodalStopPlace:46568	Roissy-en-Brie	IDFM:67839
+IDFM:monomodalStopPlace:47595	Pont Petit	IDFM:66952
+IDFM:monomodalStopPlace:44493	Bagneux	IDFM:70210
+IDFM:monomodalStopPlace:43219	Versailles Chantiers	IDFM:63880
+IDFM:monomodalStopPlace:46902	Thun le Paradis	IDFM:66334
+IDFM:monomodalStopPlace:411440	Creil	IDFM:411441
+IDFM:monomodalStopPlace:47964	Vernouillet - Verneuil	IDFM:65691
+IDFM:monomodalStopPlace:47894	Crécy-la-Chapelle	IDFM:68293
+IDFM:monomodalStopPlace:47665	Savigny-le-Temple - Nandy	IDFM:62290
+IDFM:monomodalStopPlace:58793	Villepinte	IDFM:73547
+IDFM:monomodalStopPlace:43044	Gagny	IDFM:73278
+IDFM:monomodalStopPlace:47888	Gif-sur-Yvette	IDFM:62890
+IDFM:monomodalStopPlace:47530	Nointel - Mours	IDFM:67227
+IDFM:monomodalStopPlace:46222	Vert Galant	IDFM:73482
+IDFM:monomodalStopPlace:43097	Bourg-la-Reine	IDFM:70033
+IDFM:monomodalStopPlace:43220	Versailles Château Rive Gauche	IDFM:73721
+IDFM:monomodalStopPlace:43207	Torcy	IDFM:68129
+IDFM:monomodalStopPlace:47934	Gravigny Balizy	IDFM:62667
+IDFM:monomodalStopPlace:47958	Survilliers - Fosses	IDFM:69450
+IDFM:monomodalStopPlace:43080	Étampes	IDFM:478855
+IDFM:monomodalStopPlace:43137	Juziers	IDFM:65988
+IDFM:monomodalStopPlace:47184	Mormant	IDFM:62351
+IDFM:monomodalStopPlace:58757	Champ de Mars Tour Eiffel	IDFM:73844
+IDFM:monomodalStopPlace:47517	Bouffémont - Moisselles	IDFM:66795
+IDFM:monomodalStopPlace:43167	Montreuil	IDFM:63989
+IDFM:monomodalStopPlace:43120	Domont	IDFM:66654
+IDFM:monomodalStopPlace:46850	Montfort-l'Amaury - Méré	IDFM:63955
+IDFM:monomodalStopPlace:43150	Saint-Ouen-l'Aumône Liesse	IDFM:66659
+IDFM:monomodalStopPlace:47125	Montigny-sur-Loing	IDFM:61327
+IDFM:monomodalStopPlace:46387	Ablon	IDFM:69554
+IDFM:monomodalStopPlace:47589	L'Isle-Adam - Parmain	IDFM:67172
+IDFM:monomodalStopPlace:45771	Combs-la-Ville - Quincy	IDFM:62558
+IDFM:monomodalStopPlace:45759	Essonnes Robinson	IDFM:422776
+IDFM:monomodalStopPlace:44199	Noisiel	IDFM:68153
+IDFM:monomodalStopPlace:45705	Musée d'Orsay	IDFM:71269
+IDFM:monomodalStopPlace:43202	Saint-Michel-sur-Orge	IDFM:60536
+IDFM:monomodalStopPlace:411428	Chantilly - Gouvieux	IDFM:411429
+IDFM:monomodalStopPlace:43114	Conflans Fin d'Oise	IDFM:73605
+IDFM:monomodalStopPlace:45102	Châtelet les Halles	IDFM:474151
+IDFM:monomodalStopPlace:47922	Us	IDFM:67131
+IDFM:monomodalStopPlace:45877	Gentilly	IDFM:70543
+IDFM:monomodalStopPlace:59038	Vernon - Giverny	IDFM:74127
+IDFM:monomodalStopPlace:43108	Chaville Rive Gauche	IDFM:73718
+IDFM:monomodalStopPlace:473890	Denfert-Rochereau	IDFM:71056
+IDFM:monomodalStopPlace:43132	Grigny Centre	IDFM:60797
+IDFM:monomodalStopPlace:47940	Massy - Verrières	IDFM:63320
+IDFM:monomodalStopPlace:43079	Éragny - Neuville	IDFM:66484
+IDFM:monomodalStopPlace:43192	Savigny-sur-Orge	IDFM:60987
+IDFM:monomodalStopPlace:45067	Villeneuve-Saint-Georges	IDFM:69568
+IDFM:monomodalStopPlace:46304	Villeneuve Triage	IDFM:69671
+IDFM:monomodalStopPlace:43225	Viry-Châtillon	IDFM:60981
+IDFM:monomodalStopPlace:47916	Andrésy	IDFM:65542
+IDFM:monomodalStopPlace:473843	Cité Universitaire	IDFM:70623
+IDFM:monomodalStopPlace:43068	Arpajon	IDFM:60072
+IDFM:monomodalStopPlace:46163	Le Blanc-Mesnil	IDFM:72648
+IDFM:monomodalStopPlace:47953	Saint-Mammès	IDFM:61423
+IDFM:monomodalStopPlace:47124	Bourron-Marlotte - Grez	IDFM:61318
+IDFM:monomodalStopPlace:43161	Meaux	IDFM:68963
+IDFM:monomodalStopPlace:43113	Colombes	IDFM:72244
+IDFM:monomodalStopPlace:47910	Montereau	IDFM:61414
+IDFM:monomodalStopPlace:43131	Gretz-Armainvilliers	IDFM:67658
+IDFM:monomodalStopPlace:43143	La Frette - Montigny	IDFM:65659
+IDFM:monomodalStopPlace:470195	Gare de Lyon	IDFM:73626
+IDFM:monomodalStopPlace:47939	La Norville - Saint-Germain-lès-Arpajon	IDFM:60115
+IDFM:monomodalStopPlace:46886	Maule	IDFM:64674
+IDFM:monomodalStopPlace:43086	Orsay Ville	IDFM:62892
+IDFM:monomodalStopPlace:59301	Gisors	IDFM:74348
+IDFM:monomodalStopPlace:47654	Bois-le-Roi	IDFM:61727
+IDFM:monomodalStopPlace:43178	Persan - Beaumont	IDFM:67292
+IDFM:monomodalStopPlace:43107	Chartrettes	IDFM:61763
+IDFM:monomodalStopPlace:47899	Mennecy	IDFM:59984
+IDFM:monomodalStopPlace:58798	Pont du Garigliano - Hôpital Européen G. Pompidou	IDFM:74002
+IDFM:monomodalStopPlace:43226	Yerres	IDFM:63044
+IDFM:monomodalStopPlace:47904	Villabé	IDFM:60124
+IDFM:monomodalStopPlace:47588	Valmondois	IDFM:67107
+IDFM:monomodalStopPlace:45419	Avenue du Président Kennedy Maison de Radio France	IDFM:71212
+IDFM:monomodalStopPlace:46984	Bonnières	IDFM:66741
+IDFM:monomodalStopPlace:58792	Sucy - Bonneuil	IDFM:72929
+IDFM:monomodalStopPlace:43074	Émerainville - Pontault-Combault	IDFM:67897
+IDFM:monomodalStopPlace:45437	Avenue Foch	IDFM:71321
+IDFM:monomodalStopPlace:58875	Rueil-Malmaison	IDFM:70902
+IDFM:monomodalStopPlace:44787	Rungis la Fraternelle	IDFM:69633
+IDFM:monomodalStopPlace:47118	Souppes - Château-Landon	IDFM:61094
+IDFM:monomodalStopPlace:47882	Épône - Mézières	IDFM:65326
+IDFM:monomodalStopPlace:47447	Conflans-Sainte-Honorine	IDFM:66095
+IDFM:monomodalStopPlace:47927	Gare de Chamarande	IDFM:59734
+IDFM:monomodalStopPlace:47524	Belloy - Saint-Martin	IDFM:67126
+IDFM:monomodalStopPlace:43184	Puteaux	IDFM:71422
+IDFM:monomodalStopPlace:47909	Melun	IDFM:61926
+IDFM:monomodalStopPlace:46299	Orly Ville	IDFM:69639
+IDFM:monomodalStopPlace:47136	Vulaines-sur-Seine - Samoreau	IDFM:61630
+IDFM:monomodalStopPlace:43125	Fontenay-aux-Roses	IDFM:70133
+IDFM:monomodalStopPlace:43214	Vanves - Malakoff	IDFM:70584
+IDFM:monomodalStopPlace:462357	Issy Val de Seine	IDFM:71016
+IDFM:monomodalStopPlace:47770	Garches - Marnes-la-Coquette	IDFM:70713
+IDFM:monomodalStopPlace:43232	Le Guichet	IDFM:63025
+IDFM:monomodalStopPlace:43198	Saint-Germain-en-Laye	IDFM:64589
+IDFM:monomodalStopPlace:58288	Les Yvris Noisy-le-Grand	IDFM:73096
+IDFM:monomodalStopPlace:47412	La Garenne-Colombes	IDFM:72148
+IDFM:monomodalStopPlace:43208	Tournan	IDFM:67625
+IDFM:monomodalStopPlace:46990	Saint-Cyr	IDFM:73731
+IDFM:monomodalStopPlace:43166	Montigny - Beauchamp	IDFM:66335
+IDFM:monomodalStopPlace:462398	Aéroport CDG 1 (Terminal 3) - RER	IDFM:73596
+IDFM:monomodalStopPlace:43092	Boigneville	IDFM:59420
+IDFM:monomodalStopPlace:47959	Tacoignières - Richebourg	IDFM:64194
+IDFM:monomodalStopPlace:43075	Enghien-les-Bains	IDFM:65485
+IDFM:monomodalStopPlace:58937	Noisy - Champs	IDFM:73163
+IDFM:monomodalStopPlace:47599	Saint-Ouen-l'Aumône	IDFM:66803
+IDFM:monomodalStopPlace:470540	Invalides	IDFM:71274
+IDFM:monomodalStopPlace:47960	Thieux - Nantouillet	IDFM:69196
+IDFM:monomodalStopPlace:411492	Dreux	IDFM:411493
+IDFM:monomodalStopPlace:43154	Maisons-Alfort - Alfortville	IDFM:73625
+IDFM:monomodalStopPlace:58955	Dordives	IDFM:74077
+IDFM:monomodalStopPlace:47669	Lieusaint - Moissy	IDFM:62412
+IDFM:monomodalStopPlace:45761	Moulin Galant	IDFM:60084
+IDFM:monomodalStopPlace:46884	Mareil-sur-Mauldre	IDFM:64572
+IDFM:monomodalStopPlace:47921	Orgerus - Béhoust	IDFM:64175
+IDFM:monomodalStopPlace:473506	Louveciennes	IDFM:64341
+IDFM:monomodalStopPlace:43172	Neuilly-Plaisance	IDFM:73190
+IDFM:monomodalStopPlace:47915	Achères Grand Cormier	IDFM:65190
+IDFM:monomodalStopPlace:43118	Courbevoie	IDFM:73614
+IDFM:monomodalStopPlace:43124	Fontaine Michalon	IDFM:69647
+IDFM:monomodalStopPlace:43189	Sannois	IDFM:65441
+IDFM:monomodalStopPlace:411495	Marchezais - Broué	IDFM:411496
+IDFM:monomodalStopPlace:44602	Versailles Rive Droite	IDFM:64021
+IDFM:monomodalStopPlace:47582	Méry-sur-Oise	IDFM:66934
+IDFM:monomodalStopPlace:411342	Liancourt-Saint-Pierre	IDFM:411343
+IDFM:monomodalStopPlace:46731	Compans	IDFM:69136
+IDFM:monomodalStopPlace:46552	Nogent - Le Perreux	IDFM:71609
+IDFM:monomodalStopPlace:47095	Dourdan la Forêt	IDFM:59843
+IDFM:monomodalStopPlace:47482	Nanteuil - Saâcy	IDFM:69072
+IDFM:monomodalStopPlace:58498	Rosa Parks	IDFM:73798
+IDFM:monomodalStopPlace:47884	Fontenay-le-Fleury	IDFM:63999
+IDFM:monomodalStopPlace:45453	Boulainvilliers	IDFM:71229
+IDFM:monomodalStopPlace:43224	Vincennes	IDFM:71651
+IDFM:monomodalStopPlace:43193	Sevran Beaudottes	IDFM:73491
+IDFM:monomodalStopPlace:43229	Les Essarts-le-Roi	IDFM:63240
+IDFM:monomodalStopPlace:47954	Saint-Nom-la-Bretèche Forêt de Marly	IDFM:64382
+IDFM:monomodalStopPlace:42356	Rosny Bois Perrier	IDFM:426280
+IDFM:monomodalStopPlace:43247	Marles-en-Brie	IDFM:67604
+IDFM:monomodalStopPlace:43069	Asnières-sur-Seine	IDFM:72132
+IDFM:monomodalStopPlace:47790	Bougival	IDFM:64301
+IDFM:monomodalStopPlace:43081	Étréchy	IDFM:59678
+IDFM:monomodalStopPlace:411421	Orry-la-Ville - Coye	IDFM:411422
+IDFM:monomodalStopPlace:51238	Bois-Colombes	IDFM:72179
+IDFM:monomodalStopPlace:47877	Rosny-sous-Bois	IDFM:71935
+IDFM:monomodalStopPlace:47522	Villaines	IDFM:67072
+IDFM:monomodalStopPlace:411326	Précy-sur-Oise	IDFM:411327
+IDFM:monomodalStopPlace:43159	Marolles-en-Hurepoix	IDFM:59948
+IDFM:monomodalStopPlace:43101	Bry-sur-Marne	IDFM:73166
+IDFM:monomodalStopPlace:43230	Les Grésillons	IDFM:72225
+IDFM:monomodalStopPlace:43206	Taverny	IDFM:66557
+IDFM:monomodalStopPlace:43142	La Ferté-Alais	IDFM:59661
+IDFM:monomodalStopPlace:47059	Longjumeau	IDFM:62977
+IDFM:monomodalStopPlace:45804	Livry-sur-Seine	IDFM:61826
+IDFM:monomodalStopPlace:43177	Parc de Sceaux	IDFM:69906
+IDFM:monomodalStopPlace:43098	Brétigny	IDFM:60247
+IDFM:monomodalStopPlace:59206	Sceaux	IDFM:74265
+IDFM:monomodalStopPlace:43160	Maurecourt	IDFM:65827
+IDFM:monomodalStopPlace:43212	Val d'Argenteuil	IDFM:65110
+IDFM:monomodalStopPlace:45784	Le Mée	IDFM:62003
+IDFM:monomodalStopPlace:47903	Garancières - La Queue	IDFM:64025
+IDFM:monomodalStopPlace:43136	Jouy-en-Josas	IDFM:63523
+IDFM:monomodalStopPlace:46736	Dammartin - Juilly - Saint-Mard	IDFM:69254
+IDFM:monomodalStopPlace:47944	Nézel - Aulnay	IDFM:64945
+IDFM:monomodalStopPlace:45346	Javel	IDFM:71150
+IDFM:monomodalStopPlace:411384	Nogent-L'Artaud - Charly	IDFM:411385
+IDFM:monomodalStopPlace:46298	Les Saules	IDFM:69662
+IDFM:monomodalStopPlace:47119	Bagneaux-sur-Loing	IDFM:61145
+IDFM:monomodalStopPlace:47883	Chaville - Vélizy	IDFM:69487
+IDFM:monomodalStopPlace:43147	La Verrière	IDFM:63426
+IDFM:monomodalStopPlace:43248	Marly-le-Roi	IDFM:64405
+IDFM:monomodalStopPlace:43183	Porchefontaine	IDFM:63886
+IDFM:monomodalStopPlace:462394	Gare du Nord	IDFM:71410
+IDFM:monomodalStopPlace:43082	Houilles - Carrières-sur-Seine	IDFM:64741
+IDFM:monomodalStopPlace:45447	Avenue Henri Martin	IDFM:71286
+IDFM:monomodalStopPlace:47322	Esbly	IDFM:68653
+IDFM:monomodalStopPlace:411485	Malesherbes	IDFM:411486
+IDFM:monomodalStopPlace:47878	Parc des Expositions	IDFM:73568
+IDFM:monomodalStopPlace:43129	Gargenville	IDFM:65732
+IDFM:monomodalStopPlace:46470	La Barre Ormesson	IDFM:65360
+IDFM:monomodalStopPlace:43201	Saint-Gratien	IDFM:65305
+IDFM:monomodalStopPlace:47966	Villennes-sur-Seine	IDFM:64949
+IDFM:monomodalStopPlace:427870	Rambouillet	IDFM:60665
+IDFM:monomodalStopPlace:43099	Breuillet Village	IDFM:59940
+IDFM:monomodalStopPlace:43231	Le Bourget	IDFM:72641
+IDFM:monomodalStopPlace:47932	Coignières	IDFM:63369
+IDFM:monomodalStopPlace:473364	Aéroport Charles de Gaulle 2 (Terminal 2)	IDFM:73699
+IDFM:monomodalStopPlace:43135	Joinville-le-Pont	IDFM:70640
+IDFM:monomodalStopPlace:43213	Val d'Europe	IDFM:68266
+IDFM:monomodalStopPlace:58581	Villiers Montbarbin	IDFM:68311
+IDFM:monomodalStopPlace:46926	Triel-sur-Seine	IDFM:463843
+IDFM:monomodalStopPlace:411348	La Villetertre	IDFM:411349
+IDFM:monomodalStopPlace:411372	La Ferté-Milon	IDFM:411373
+IDFM:monomodalStopPlace:42516	Cesson	IDFM:62176
+IDFM:monomodalStopPlace:47528	Luzarches	IDFM:67177
+IDFM:monomodalStopPlace:43236	Le Stade	IDFM:72287
+IDFM:monomodalStopPlace:411378	Château-Thierry	IDFM:411379
+IDFM:monomodalStopPlace:462388	Viroflay Rive Gauche	IDFM:63923
+IDFM:monomodalStopPlace:43112	Clichy - Levallois	IDFM:72073
+IDFM:monomodalStopPlace:47961	Thomery	IDFM:61480
+IDFM:monomodalStopPlace:47949	Santeuil - Le Perchay	IDFM:67196
+IDFM:monomodalStopPlace:46725	Villeparisis - Mitry-le-Neuf	IDFM:68916
+IDFM:monomodalStopPlace:43087	Ballancourt	IDFM:59825
+IDFM:monomodalStopPlace:43218	Vernou-sur-Seine	IDFM:61450
+IDFM:monomodalStopPlace:43130	Gennevilliers	IDFM:72303
+IDFM:monomodalStopPlace:47920	Ermont Halte	IDFM:65910
+IDFM:monomodalStopPlace:46286	Créteil Pompadour	IDFM:69950
+IDFM:monomodalStopPlace:46482	Gros Noyer Saint-Prix	IDFM:66063
+IDFM:monomodalStopPlace:47895	Boutigny	IDFM:59565
+IDFM:monomodalStopPlace:43070	Aubergenville Élisabethville	IDFM:65490
+IDFM:monomodalStopPlace:43171	Nanterre Ville	IDFM:70940
+IDFM:monomodalStopPlace:44514	Porte de Clichy	IDFM:71545
+IDFM:monomodalStopPlace:43188	Sainte-Geneviève-des-Bois	IDFM:60785
+IDFM:monomodalStopPlace:47914	Longueville	IDFM:61858
+IDFM:monomodalStopPlace:47327	Couilly - Saint-Germain - Quincy	IDFM:68505
+IDFM:monomodalStopPlace:473109	Maisons-Laffitte	IDFM:65048
+IDFM:monomodalStopPlace:47889	Saint-Rémy-lès-Chevreuse	IDFM:62978
+IDFM:monomodalStopPlace:47238	Fontenay-sous-Bois	IDFM:71630
+IDFM:monomodalStopPlace:43106	Champagne-sur-Seine	IDFM:61537
+IDFM:monomodalStopPlace:46375	Vitry-sur-Seine	IDFM:70313
+IDFM:monomodalStopPlace:411390	Nanteuil-le-Haudouin	IDFM:411391
+IDFM:monomodalStopPlace:43194	Sevran - Livry	IDFM:73439
+IDFM:480908	Saint-Cyr	IDFM:73731
+IDFM:478653	Léon Blum	IDFM:73362
+IDFM:479491	Bondy	IDFM:72037
+IDFM:470688	Le Bourget	IDFM:72641
+IDFM:478651	Arboretum	IDFM:478648
+IDFM:478655	Romain Rolland	IDFM:73350
+IDFM:481038	Mareil-Marly	IDFM:73602
+IDFM:472618	Rougemont Chanteloup	IDFM:411284
+IDFM:481065	Noisy-le-Roi	IDFM:64246
+IDFM:480925	Camp des Loges	IDFM:480927
+IDFM:481069	Lisière Pereire	IDFM:64622
+IDFM:480906	Saint-Nom-la-Bretèche Forêt de Marly	IDFM:64382
+IDFM:478649	Notre-Dame-des-Anges	IDFM:477285
+IDFM:480904	Saint-Germain-en-Laye	IDFM:64589
+IDFM:481067	Saint-Germain-en-Laye	IDFM:64589
+IDFM:471933	Pierrefitte - Stains	IDFM:72787
+IDFM:481073	Bailly	IDFM:480951
+IDFM:472969	Épinay - Villetaneuse	IDFM:65227
+IDFM:478663	Clichy-sous-Bois - Mairie	IDFM:477288
+IDFM:481071	L'Etang - Les Sablons	IDFM:480950
+IDFM:472211	Gargan	IDFM:73360
+IDFM:471878	Les Pavillons-sous-Bois	IDFM:73334
+IDFM:481075	Les Portes de Saint-Cyr	IDFM:480952
+IDFM:472316	Freinville Sevran	IDFM:73411
+IDFM:478657	Maurice Audin	IDFM:73364
+IDFM:472986	Épinay-sur-Seine	IDFM:72383
+IDFM:471008	Les Coquetiers	IDFM:72028
+IDFM:478661	Clichy - Montfermeil	IDFM:477278
+IDFM:478659	Romain Rolland	IDFM:73350
+IDFM:472820	Villetaneuse Université	IDFM:72396
+IDFM:472197	Freinville Sevran	IDFM:73411
+IDFM:480932	Bailly	IDFM:480951
+IDFM:478652	Notre-Dame-des-Anges	IDFM:477285
+IDFM:472147	Aulnay-sous-Bois	IDFM:72646
+IDFM:478656	Hôpital de Montfermeil	IDFM:73329
+IDFM:472657	L'Abbaye	IDFM:73709
+IDFM:472376	Remise à Jorelle	IDFM:72033
+IDFM:472172	Allée de la Tour-Rendez-vous	IDFM:73312
+IDFM:472077	L'Abbaye	IDFM:73709
+IDFM:470721	Dugny - La Courneuve	IDFM:426093
+IDFM:478654	Maurice Audin	IDFM:73364
+IDFM:480934	Allée Royale	IDFM:64049
+IDFM:478646	Arboretum	IDFM:478648
+IDFM:481066	Saint-Cyr	IDFM:73731
+IDFM:471289	Rougemont Chanteloup	IDFM:411284
+IDFM:472644	Bondy	IDFM:72037
+IDFM:471675	Pierrefitte - Stains	IDFM:72787
+IDFM:481070	Fourqueux - Bel Air	IDFM:64566
+IDFM:478650	République - Marx Dormoy	IDFM:73354
+IDFM:470693	Lycée Henri Sellier	IDFM:411281
+IDFM:472857	Gargan	IDFM:73360
+IDFM:471825	Gargan	IDFM:73360
+IDFM:480930	L'Etang - Les Sablons	IDFM:480950
+IDFM:481068	Camp des Loges	IDFM:480927
+IDFM:472642	Lycée Henri Sellier	IDFM:411281
+IDFM:480928	Lisière Pereire	IDFM:64622
+IDFM:471757	Allée de la Tour-Rendez-vous	IDFM:73312
+IDFM:477286	Clichy-sous-Bois - Mairie	IDFM:477288
+IDFM:481072	Saint-Nom-la-Bretèche Forêt de Marly	IDFM:64382
+IDFM:478664	Clichy - Montfermeil	IDFM:477278
+IDFM:471982	Bondy	IDFM:72037
+IDFM:480942	Mareil-Marly	IDFM:73602
+IDFM:472503	Les Pavillons-sous-Bois	IDFM:73334
+IDFM:470851	Villetaneuse Université	IDFM:72396
+IDFM:472968	Stains la Cerisaie	IDFM:426083
+IDFM:472920	Épinay-sur-Seine	IDFM:72383
+IDFM:481074	Allée Royale	IDFM:64049
+IDFM:470874	Épinay - Villetaneuse	IDFM:65227
+IDFM:472363	Aulnay-sous-Bois	IDFM:72646
+IDFM:472210	Dugny - La Courneuve	IDFM:426093
+IDFM:471887	Stains la Cerisaie	IDFM:426083
+IDFM:480938	Noisy-le-Roi	IDFM:64246
+IDFM:478658	Léon Blum	IDFM:73362
+IDFM:471005	Les Coquetiers	IDFM:72028
+IDFM:480936	Les Portes de Saint-Cyr	IDFM:480952
+IDFM:472194	Le Bourget	IDFM:72641
+IDFM:478662	République - Marx Dormoy	IDFM:73354
+IDFM:471837	Remise à Jorelle	IDFM:72033
+IDFM:480940	Fourqueux - Bel Air	IDFM:64566
+IDFM:478660	Hôpital de Montfermeil	IDFM:73329
+IDFM:486848	Malabry	IDFM:480872
+IDFM:22268	Marché de Saint-Denis	IDFM:72333
+IDFM:22009	Campo-Formio	IDFM:71063
+IDFM:22392	Crimée	IDFM:72013
+IDFM:21940	Marcel Sembat	IDFM:71054
+IDFM:28847	Stade Charléty - Porte de Gentilly	IDFM:70605
+IDFM:23283	Timbaud	IDFM:72314
+IDFM:22133	Simplon	IDFM:71556
+IDFM:22057	Concorde	IDFM:71298
+IDFM:479009	Christophe Colomb	IDFM:69719
+IDFM:463115	Bonne Nouvelle	IDFM:71320
+IDFM:463186	Glacière	IDFM:71026
+IDFM:23435	Les Fauvelles	IDFM:72099
+IDFM:22181	Daumesnil	IDFM:71614
+IDFM:463138	Bréguet-Sabin	IDFM:73621
+IDFM:42113	Gilbert Bonnemaison	IDFM:72381
+IDFM:10214	Parc Pr	IDFM:74162
+IDFM:463163	Félix Faure	IDFM:71137
+IDFM:463051	Balard	IDFM:71073
+IDFM:463214	Malakoff - Rue Etienne Dolet	IDFM:70562
+IDFM:22108	Ternes	IDFM:71367
+IDFM:463074	Jaurès	IDFM:71940
+IDFM:22367	Château Landon	IDFM:474149
+IDFM:28872	Les Flanades	IDFM:65560
+IDFM:21915	Ranelagh	IDFM:71243
+IDFM:22034	Louise Michel	IDFM:73667
+IDFM:23311	Petit Noisy	IDFM:72438
+IDFM:463026	Place d'Italie	IDFM:71033
+IDFM:21988	Boulogne Jean Jaurès	IDFM:71147
+IDFM:463239	Michel-Ange - Molitor	IDFM:73658
+IDFM:477914	Asnières - Quatre Routes	IDFM:72267
+IDFM:463099	Dupleix	IDFM:71197
+IDFM:483277	Barbara	IDFM:70441
+IDFM:40067	Montempoivre	IDFM:71612
+IDFM:463003	Place d'Italie	IDFM:71033
+IDFM:24126	Porte de Choisy	IDFM:70604
+IDFM:35928	Hélène Boucher (Orlytech)	IDFM:74008
+IDFM:462957	Miromesnil	IDFM:71346
+IDFM:24103	Balard	IDFM:71073
+IDFM:25641	La Défense (Grande Arche)	IDFM:71517
+IDFM:2333	Inovel Parc Nord	IDFM:63717
+IDFM:463076	Charles Michels	IDFM:71156
+IDFM:29896	Domaine Chérioux	IDFM:70022
+IDFM:22032	Europe	IDFM:73617
+IDFM:463097	Saint-Marcel	IDFM:71092
+IDFM:41833	Terminal 1	IDFM:69212
+IDFM:21917	Trocadéro	IDFM:71285
+IDFM:24686	Botzaris	IDFM:71906
+IDFM:21938	Pont de Sèvres	IDFM:70698
+IDFM:24415	Porte des Lilas	IDFM:71889
+IDFM:23309	L'Île-Saint-Denis	IDFM:72319
+IDFM:463313	Strasbourg - Saint-Denis	IDFM:73633
+IDFM:463028	Nation	IDFM:71673
+IDFM:463287	Pyrénées	IDFM:71864
+IDFM:23433	Faubourg de l'Arche	IDFM:72063
+IDFM:463005	Bir-Hakeim	IDFM:473829
+IDFM:462959	Vaneau	IDFM:71170
+IDFM:463264	Strasbourg - Saint-Denis	IDFM:73633
+IDFM:22080	Nation	IDFM:71673
+IDFM:463140	Cambronne	IDFM:71167
+IDFM:24101	Desnouettes	IDFM:71055
+IDFM:41856	Division Leclerc	IDFM:70222
+IDFM:478988	Verdun - Hoche	IDFM:69870
+IDFM:23285	Le Luth	IDFM:72300
+IDFM:22110	Rome	IDFM:71408
+IDFM:28849	Joncherolles	IDFM:73922
+IDFM:462982	La Chapelle	IDFM:71434
+IDFM:463117	Alexandre Dumas	IDFM:71728
+IDFM:463241	Montgallet	IDFM:71631
+IDFM:29903	Villejuif - Louis Aragon	IDFM:70143
+IDFM:22055	Lamarck - Caulaincourt	IDFM:71492
+IDFM:22179	Bir-Hakeim	IDFM:473829
+IDFM:22222	Pernety	IDFM:412687
+IDFM:21986	Charles Michels	IDFM:71156
+IDFM:42115	Lacépède	IDFM:72379
+IDFM:463212	Mairie de Saint-Ouen	IDFM:72168
+IDFM:21963	Saint-Lazare	IDFM:71370
+IDFM:22369	Sully - Morland	IDFM:71201
+IDFM:25639	Meudon-sur-Seine	IDFM:70587
+IDFM:35930	Porte de Thiais	IDFM:73753
+IDFM:22156	Montparnasse Bienvenue	IDFM:71139
+IDFM:463072	Réaumur - Sébastopol	IDFM:73636
+IDFM:22365	Place d'Italie	IDFM:71033
+IDFM:22036	Anatole France	IDFM:71519
+IDFM:41858	Soleil Levant	IDFM:70186
+IDFM:22106	Villiers	IDFM:71403
+IDFM:24682	Place des Fêtes	IDFM:71885
+IDFM:28868	Les Flanades	IDFM:65560
+IDFM:463024	Gare d'Austerlitz	IDFM:71135
+IDFM:24130	Didot	IDFM:70983
+IDFM:462978	Brochant	IDFM:73661
+IDFM:463001	Gare de l'Est	IDFM:71359
+IDFM:463260	Porte de Vanves	IDFM:71006
+IDFM:35926	Porte de l'Essonne	IDFM:74009
+IDFM:463190	Iéna	IDFM:71294
+IDFM:22177	Bel-Air	IDFM:73650
+IDFM:25643	Parc de Saint-Cloud	IDFM:70726
+IDFM:462955	Montparnasse Bienvenue	IDFM:71139
+IDFM:24105	Didot	IDFM:70983
+IDFM:22224	Miromesnil	IDFM:71346
+IDFM:22084	George V	IDFM:71328
+IDFM:463283	Pyramides	IDFM:73788
+IDFM:22154	Alésia	IDFM:71030
+IDFM:463047	Ecole Vétérinaire de Maisons-Alfort	IDFM:70522
+IDFM:22131	Raspail	IDFM:71088
+IDFM:21967	Gare d'Austerlitz	IDFM:71135
+IDFM:2331	Mairie de Vélizy	IDFM:63706
+IDFM:486846	Cité-Jardin	IDFM:425730
+IDFM:22059	Abbesses	IDFM:71432
+IDFM:463188	Havre-Caumartin	IDFM:482368
+IDFM:463311	Solférino	IDFM:71270
+IDFM:10216	Parc Px	IDFM:73595
+IDFM:462445	Honoré De Balzac	IDFM:424926
+IDFM:463165	Cour Saint-Emilion	IDFM:71576
+IDFM:22388	Chaussée d'Antin - La Fayette	IDFM:73689
+IDFM:463142	Charenton - Écoles	IDFM:70648
+IDFM:463216	Les Gobelins	IDFM:71076
+IDFM:22013	Gare de l'Est	IDFM:71359
+IDFM:21965	Madeleine	IDFM:71324
+IDFM:463119	Anatole France	IDFM:71519
+IDFM:478986	Rouget de Lisle	IDFM:69846
+IDFM:486844	Théâtre La Piscine	IDFM:73764
+IDFM:23313	Théâtre Gérard Philipe	IDFM:72327
+IDFM:28870	Lochères	IDFM:65604
+IDFM:463049	Grands Boulevards	IDFM:71326
+IDFM:41670	Parc André Malraux	IDFM:70310
+IDFM:462980	Montparnasse Bienvenue	IDFM:71139
+IDFM:463167	Créteil - Université	IDFM:70172
+IDFM:29901	Porte de Rungis	IDFM:69721
+IDFM:24128	Porte de Vanves	IDFM:71006
+IDFM:463237	Maubert - Mutualité	IDFM:71190
+IDFM:23287	Gare de Gennevilliers	IDFM:72303
+IDFM:42117	Delaunay - Belleville	IDFM:74368
+IDFM:22011	Jacques Bonsergent	IDFM:71322
+IDFM:480341	Saint-Ouen	IDFM:72126
+IDFM:463144	Chaussée d'Antin - La Fayette	IDFM:73689
+IDFM:24413	Porte d'Aubervilliers	IDFM:72434
+IDFM:22390	Cadet	IDFM:71351
+IDFM:21942	Robespierre	IDFM:71725
+IDFM:479007	Châteaudun - Barbès	IDFM:70549
+IDFM:21919	Nation	IDFM:71673
+IDFM:24684	Pré-Saint-Gervais	IDFM:71911
+IDFM:29898	Caroline Aigle (Orlyfret)	IDFM:69606
+IDFM:463095	Jaurès	IDFM:71940
+IDFM:2329	L'Onde (Maison des Arts)	IDFM:73918
+IDFM:22201	Saint-Sébastien - Froissart	IDFM:71777
+IDFM:22129	Place de Clichy	IDFM:71435
+IDFM:21990	Hôtel de Ville	IDFM:415852
+IDFM:23431	Victor Basch	IDFM:70972
+IDFM:463262	Porte des Lilas	IDFM:71889
+IDFM:463309	Saint-Sébastien - Froissart	IDFM:71777
+IDFM:22082	Franklin D. Roosevelt	IDFM:71318
+IDFM:22295	Suzanne Lenglen	IDFM:71042
+IDFM:463285	Père Lachaise	IDFM:71787
+IDFM:22203	Ledru-Rollin	IDFM:71693
+IDFM:463045	Olympiades	IDFM:71557
+IDFM:21969	La Motte-Picquet - Grenelle	IDFM:71199
+IDFM:24419	Porte de Bagnolet	IDFM:71799
+IDFM:23305	Maurice Lachâtre	IDFM:72553
+IDFM:22198	Bonne Nouvelle	IDFM:71320
+IDFM:22127	Barbès - Rochechouart	IDFM:71426
+IDFM:460547	Porte d'Orléans	IDFM:70657
+IDFM:463093	Barbès - Rochechouart	IDFM:71426
+IDFM:463321	Vaugirard	IDFM:71091
+IDFM:23277	Les Courtilles	IDFM:72286
+IDFM:463121	Argentine	IDFM:71348
+IDFM:21946	Saint-Fargeau	IDFM:71860
+IDFM:463268	Trocadéro	IDFM:71285
+IDFM:462430	Porte d'Asnières - Marguerite Long	IDFM:71505
+IDFM:463068	Malesherbes	IDFM:71416
+IDFM:479003	Constant Coquelin	IDFM:70027
+IDFM:25084	Buzenval	IDFM:479928
+IDFM:463293	Reuilly - Diderot	IDFM:71654
+IDFM:23429	Parc Pierre Lagravère	IDFM:70975
+IDFM:22074	Saint-Paul (Le Marais)	IDFM:71222
+IDFM:463319	Télégraphe	IDFM:71870
+IDFM:21994	Arts et Métiers	IDFM:71293
+IDFM:21923	Michel-Ange - Molitor	IDFM:73658
+IDFM:463245	Opéra	IDFM:71337
+IDFM:462963	République	IDFM:71311
+IDFM:28866	Baudelaire	IDFM:73921
+IDFM:22051	Notre-Dame des Champs	IDFM:71138
+IDFM:26602	Mairie de Montrouge	IDFM:70586
+IDFM:22175	Corvisart	IDFM:71013
+IDFM:463222	Mairie de Montrouge	IDFM:70586
+IDFM:24680	Jaurès	IDFM:71940
+IDFM:22299	Puteaux	IDFM:71422
+IDFM:42119	Paul Éluard	IDFM:72335
+IDFM:463192	Jourdain	IDFM:71868
+IDFM:22102	Esplanade de la Défense	IDFM:71485
+IDFM:35934	Porte de Rungis	IDFM:69721
+IDFM:22152	Château Rouge	IDFM:71469
+IDFM:22226	Varenne	IDFM:71232
+IDFM:2339	Pavé Blanc	IDFM:70049
+IDFM:22097	Bastille	IDFM:463564
+IDFM:22401	Villejuif Paul Vaillant-Couturier	IDFM:70248
+IDFM:463146	Chemin Vert	IDFM:73622
+IDFM:35936	Place de la Logistique	IDFM:69729
+IDFM:23427	Parc Pierre Lagravère	IDFM:70975
+IDFM:22304	Belvédère	IDFM:70845
+IDFM:412355	Funiculaire Gare haute	IDFM:73848
+IDFM:479005	Cimetière Parisien d'Ivry	IDFM:70486
+IDFM:22049	Rennes	IDFM:73640
+IDFM:462965	Notre-Dame des Champs	IDFM:71138
+IDFM:21992	Rambuteau	IDFM:71273
+IDFM:21921	Richelieu - Drouot	IDFM:71330
+IDFM:22150	Cité	IDFM:71223
+IDFM:24421	Adrienne Bolland	IDFM:73669
+IDFM:24120	Porte de Choisy	IDFM:70604
+IDFM:22228	Guy Môquet	IDFM:71528
+IDFM:22173	Glacière	IDFM:71026
+IDFM:463194	La Motte-Picquet - Grenelle	IDFM:71199
+IDFM:24533	Delphine Seyrig	IDFM:73800
+IDFM:480541	Porte de Clichy	IDFM:71545
+IDFM:22297	Les Moulineaux	IDFM:70622
+IDFM:463070	Wagram	IDFM:71423
+IDFM:463218	Louvre - Rivoli	IDFM:73630
+IDFM:42121	Pierre de Geyter	IDFM:72292
+IDFM:22104	Château de Vincennes	IDFM:71634
+IDFM:463022	Gare de l'Est	IDFM:71359
+IDFM:462942	Nation	IDFM:71673
+IDFM:22003	Porte de Pantin	IDFM:71989
+IDFM:463169	Daumesnil	IDFM:71614
+IDFM:486842	LaVallée	IDFM:69807
+IDFM:463100	Edgar Quinet	IDFM:71108
+IDFM:22398	Le Kremlin-Bicêtre	IDFM:70452
+IDFM:462988	Villiers	IDFM:71403
+IDFM:22026	Temple	IDFM:71296
+IDFM:22375	Pyramides	IDFM:73788
+IDFM:25645	Suresnes Longchamp	IDFM:70811
+IDFM:463123	Assemblée Nationale	IDFM:73642
+IDFM:23279	Le Luth	IDFM:72300
+IDFM:29905	Moulin Vert	IDFM:69925
+IDFM:22300	Les Coteaux	IDFM:70763
+IDFM:463317	Trinité - d'Estienne d'Orves	IDFM:71355
+IDFM:479001	Four - Peary	IDFM:69742
+IDFM:22230	Gaîté	IDFM:73675
+IDFM:486840	Jardin Parisien	IDFM:70163
+IDFM:21996	Goncourt	IDFM:71840
+IDFM:21925	Oberkampf	IDFM:71803
+IDFM:462961	République	IDFM:71311
+IDFM:28862	Roger Semât	IDFM:72355
+IDFM:22078	Porte Maillot	IDFM:71379
+IDFM:24124	Maryse Bastié	IDFM:73623
+IDFM:22148	Gare de l'Est	IDFM:71359
+IDFM:22100	Les Sablons	IDFM:425779
+IDFM:26534	Porte de Vincennes	IDFM:71663
+IDFM:35932	Coeur d'Orly	IDFM:69577
+IDFM:22030	Opéra	IDFM:71337
+IDFM:463018	Bastille	IDFM:463564
+IDFM:2337	Centre de Châtillon	IDFM:70362
+IDFM:22205	Montgallet	IDFM:71631
+IDFM:22196	Richelieu - Drouot	IDFM:71330
+IDFM:22007	Gare du Nord	IDFM:71410
+IDFM:22635	Gare de Saint-Denis	IDFM:72323
+IDFM:23281	Gare de Gennevilliers	IDFM:72303
+IDFM:463148	Château Rouge	IDFM:71469
+IDFM:22394	Aubervilliers-Pantin Quatre Chemins	IDFM:72460
+IDFM:422037	Viroflay - Rive Gauche	IDFM:63923
+IDFM:463171	Etienne Marcel	IDFM:479068
+IDFM:24417	Ella Fitzgerald	IDFM:73799
+IDFM:22125	Blanche	IDFM:71420
+IDFM:22371	Riquet	IDFM:71977
+IDFM:21973	Mabillon	IDFM:73639
+IDFM:463289	Quai de la Rapée	IDFM:71637
+IDFM:462984	Colonel Fabien	IDFM:71893
+IDFM:412987	Porte de la Chapelle	IDFM:72064
+IDFM:463091	Réaumur - Sébastopol	IDFM:73636
+IDFM:478990	Trois Communes	IDFM:69939
+IDFM:463266	Ternes	IDFM:71367
+IDFM:21950	Gambetta	IDFM:71808
+IDFM:463243	Ménilmontant	IDFM:71815
+IDFM:22633	Basilique de Saint-Denis	IDFM:72326
+IDFM:22194	Madeleine	IDFM:71324
+IDFM:22005	Ourcq	IDFM:71972
+IDFM:22207	Porte Dorée	IDFM:71591
+IDFM:463020	Campo-Formio	IDFM:71063
+IDFM:463291	Raspail	IDFM:71088
+IDFM:25647	Pont de Bezons	IDFM:64758
+IDFM:22396	Mairie d'Ivry	IDFM:70488
+IDFM:22146	Les Halles	IDFM:73794
+IDFM:463173	Falguière	IDFM:73641
+IDFM:463102	Kléber	IDFM:73656
+IDFM:28864	Guynemer	IDFM:72365
+IDFM:22053	Marx Dormoy	IDFM:71510
+IDFM:422039	Viroflay - Rive Droite	IDFM:422420
+IDFM:486838	Le Hameau	IDFM:70060
+IDFM:483279	Bagneux - Lucie Aubrac	IDFM:483315
+IDFM:22373	Porte de Choisy	IDFM:70604
+IDFM:22123	Anvers	IDFM:71419
+IDFM:463150	Concorde	IDFM:71298
+IDFM:21971	Église d'Auteuil	IDFM:71166
+IDFM:462986	Sentier	IDFM:73634
+IDFM:463220	Mairie d'Ivry	IDFM:70488
+IDFM:463125	Avron	IDFM:71697
+IDFM:42123	Saint-Denis - Porte de Paris	IDFM:72285
+IDFM:22028	Wagram	IDFM:71423
+IDFM:478992	Camille Groult	IDFM:70101
+IDFM:463315	Ségur	IDFM:71157
+IDFM:460549	Hôpital Delafontaine	IDFM:461959
+IDFM:21902	République	IDFM:71311
+IDFM:2335	Dewoitine	IDFM:416744
+IDFM:22302	Musée de Sèvres	IDFM:70692
+IDFM:462915	Saint-Philippe du Roule	IDFM:71334
+IDFM:23307	Gaston Roulaud	IDFM:72526
+IDFM:463043	Charles de Gaulle - Etoile	IDFM:71347
+IDFM:463066	Liège	IDFM:71382
+IDFM:22076	Reuilly - Diderot	IDFM:71654
+IDFM:24122	Montsouris	IDFM:70620
+IDFM:22171	Dupleix	IDFM:71197
+IDFM:463089	Pigalle	IDFM:71409
+IDFM:463196	Funiculaire Gare haute	IDFM:73848
+IDFM:21948	Pelleport	IDFM:71828
+IDFM:22099	Pont de Neuilly	IDFM:71442
+IDFM:24402	Canal Saint-Denis	IDFM:72424
+IDFM:21904	Michel-Ange - Molitor	IDFM:73658
+IDFM:462969	Saint-Lazare	IDFM:71370
+IDFM:24138	Porte de Charenton	IDFM:71579
+IDFM:463063	Madeleine	IDFM:71324
+IDFM:23295	Maurice Lachâtre	IDFM:72553
+IDFM:24397	Séverine	IDFM:71824
+IDFM:22168	Place d'Italie	IDFM:71033
+IDFM:463015	Maisons-Alfort - Les Juilliottes	IDFM:70358
+IDFM:463251	Pierre et Marie Curie	IDFM:70537
+IDFM:21975	Maubert - Mutualité	IDFM:71190
+IDFM:28859	Alcide d'Orbigny	IDFM:72414
+IDFM:24425	Hôtel de Ville de Bobigny	IDFM:72477
+IDFM:22145	Odéon	IDFM:73618
+IDFM:21952	Jaurès	IDFM:71940
+IDFM:463198	Invalides	IDFM:71274
+IDFM:22122	Alexandre Dumas	IDFM:71728
+IDFM:463038	Jasmin	IDFM:73657
+IDFM:22232	Les Agnettes	IDFM:72240
+IDFM:22170	Kléber	IDFM:73656
+IDFM:35940	Place de la Logistique	IDFM:69729
+IDFM:22379	Pont Neuf	IDFM:71253
+IDFM:463104	Denfert-Rochereau	IDFM:71056
+IDFM:463302	Saint-Denis - Université	IDFM:72358
+IDFM:22092	Châtelet	IDFM:71264
+IDFM:462946	République	IDFM:71311
+IDFM:486812	Hôpital Béclère	IDFM:423879
+IDFM:24115	Cité Universitaire	IDFM:70623
+IDFM:22632	Cosmonautes	IDFM:73692
+IDFM:478998	Germaine Tailleferre	IDFM:70350
+IDFM:22193	Invalides	IDFM:71274
+IDFM:23300	Libération	IDFM:72472
+IDFM:2271	Terminal 3	IDFM:73596
+IDFM:42102	Épinay-sur-Seine - Gare	IDFM:72383
+IDFM:2345	Pavé Blanc	IDFM:70049
+IDFM:478975	Musée MAC VAL	IDFM:70198
+IDFM:462436	Porte de Saint-Ouen	IDFM:72078
+IDFM:463127	Bel-Air	IDFM:73650
+IDFM:42125	Delaunay - Belleville	IDFM:74368
+IDFM:28861	Jacques Prévert	IDFM:73923
+IDFM:22120	Colonel Fabien	IDFM:71893
+IDFM:23445	Pont de Bezons	IDFM:64758
+IDFM:462971	Saint-Lazare	IDFM:71370
+IDFM:22234	Gabriel Péri	IDFM:72203
+IDFM:24113	Georges Brassens	IDFM:71018
+IDFM:486814	Le Hameau	IDFM:70060
+IDFM:35942	La Fraternelle	IDFM:69633
+IDFM:483898	Mairie d'Aubervilliers	IDFM:72524
+IDFM:463299	Saint-Ambroise	IDFM:71781
+IDFM:463228	Pereire	IDFM:71453
+IDFM:22019	Parmentier	IDFM:71801
+IDFM:463325	Voltaire	IDFM:71750
+IDFM:22630	La Courneuve - Six Routes	IDFM:72637
+IDFM:22191	École Militaire	IDFM:71224
+IDFM:463201	La Motte-Picquet - Grenelle	IDFM:71199
+IDFM:478977	Mairie de Vitry-sur-Seine	IDFM:70169
+IDFM:486837	Parc des Sports	IDFM:70009
+IDFM:22211	Créteil - L'Échat	IDFM:70269
+IDFM:24136	Poterne des Peupliers	IDFM:70626
+IDFM:473827	Orly 1-2-3	IDFM:63284
+IDFM:22381	Opéra	IDFM:71337
+IDFM:24404	Butte du Chapeau Rouge	IDFM:73801
+IDFM:462994	Mabillon	IDFM:73639
+IDFM:23297	Hôpital Avicenne	IDFM:72534
+IDFM:22209	Liberté	IDFM:71558
+IDFM:21927	Iéna	IDFM:71294
+IDFM:21998	Belleville	IDFM:71853
+IDFM:463086	Mairie de Clichy	IDFM:72118
+IDFM:22021	Pereire	IDFM:71453
+IDFM:463175	Funiculaire Gare basse	IDFM:73849
+IDFM:22257	Auguste Delaune	IDFM:72479
+IDFM:463253	Place de Clichy	IDFM:71435
+IDFM:22044	Saint-Georges	IDFM:71366
+IDFM:463152	Corentin Cariou	IDFM:72031
+IDFM:463276	Porte de Bagnolet	IDFM:71799
+IDFM:24427	Danton	IDFM:73693
+IDFM:479383	Garges - Sarcelles	IDFM:65582
+IDFM:463040	Saint-Mandé	IDFM:71647
+IDFM:22259	Jean Rostand	IDFM:72490
+IDFM:463295	Riquet	IDFM:71977
+IDFM:463036	Richelieu - Drouot	IDFM:71330
+IDFM:22189	Félix Faure	IDFM:71137
+IDFM:463177	École Militaire	IDFM:71224
+IDFM:463106	Place Monge	IDFM:71133
+IDFM:463300	Saint-Augustin	IDFM:73690
+IDFM:463084	Duroc	IDFM:71159
+IDFM:486810	Jardin Parisien	IDFM:70163
+IDFM:24117	Porte d'Italie	IDFM:70596
+IDFM:463129	Bercy	IDFM:71607
+IDFM:42104	Rose Bertin	IDFM:72376
+IDFM:463154	Courcelles	IDFM:71376
+IDFM:463224	Maison Blanche	IDFM:70645
+IDFM:478996	Beethoven - Concorde	IDFM:70273
+IDFM:2343	Georges Pompidou	IDFM:70149
+IDFM:22377	Poissonnière	IDFM:71363
+IDFM:42127	Villetaneuse - Université	IDFM:72396
+IDFM:23302	Danton	IDFM:73693
+IDFM:478973	Watteau - Rondenay	IDFM:70001
+IDFM:463059	Oberkampf	IDFM:71803
+IDFM:24142	Porte de Charenton	IDFM:71579
+IDFM:22628	Cosmonautes	IDFM:73692
+IDFM:22025	Rue Saint-Maur	IDFM:71795
+IDFM:463205	Lamarck - Caulaincourt	IDFM:71492
+IDFM:22166	Pasteur	IDFM:71125
+IDFM:21979	Ségur	IDFM:71157
+IDFM:24400	Séverine	IDFM:71824
+IDFM:21906	Havre-Caumartin	IDFM:482368
+IDFM:463323	Villejuif Léo Lagrange	IDFM:70375
+IDFM:28857	Suzanne Valadon	IDFM:72397
+IDFM:22048	Volontaires	IDFM:71113
+IDFM:24423	Porte de Pantin - Parc de la Villette	IDFM:71989
+IDFM:22143	Montparnasse Bienvenue	IDFM:71139
+IDFM:462990	Pelleport	IDFM:71828
+IDFM:462944	Cluny - La Sorbonne	IDFM:73619
+IDFM:21929	La Muette	IDFM:474150
+IDFM:23299	La Ferme	IDFM:73787
+IDFM:22164	Trocadéro	IDFM:71285
+IDFM:22023	Porte de Champerret	IDFM:71450
+IDFM:22094	Charles de Gaulle - Etoile	IDFM:71347
+IDFM:21908	Rue de la Pompe	IDFM:71292
+IDFM:21977	Vaneau	IDFM:71170
+IDFM:24530	Rosa Parks	IDFM:73798
+IDFM:483903	Aimé Césaire	IDFM:72491
+IDFM:22046	Trinité - d'Estienne d'Orves	IDFM:71355
+IDFM:463179	Fort d'Aubervilliers	IDFM:73695
+IDFM:22261	Gaston Roulaud	IDFM:72526
+IDFM:463131	Bobigny Pablo Picasso	IDFM:72486
+IDFM:474397	Miromesnil	IDFM:71346
+IDFM:462992	Saint-Sulpice	IDFM:71202
+IDFM:22141	Porte de Clignancourt	IDFM:478883
+IDFM:463297	Rue Saint-Maur	IDFM:71795
+IDFM:480330	Mairie de Saint-Ouen	IDFM:72168
+IDFM:463061	Hôtel de Ville	IDFM:415852
+IDFM:21954	Olympiades	IDFM:71557
+IDFM:35938	Robert Schuman (Parc Silic Centre)	IDFM:69670
+IDFM:463108	Arts et Métiers	IDFM:71293
+IDFM:23443	Les Milons	IDFM:73613
+IDFM:22236	Malakoff - Rue Etienne Dolet	IDFM:70562
+IDFM:463249	Palais Royal - Musée du Louvre	IDFM:71297
+IDFM:24399	Porte de la Villette	IDFM:72430
+IDFM:462967	Sèvres - Babylone	IDFM:71203
+IDFM:463013	Charles de Gaulle - Etoile	IDFM:71347
+IDFM:463226	Michel Bizot	IDFM:71595
+IDFM:22118	Jaurès	IDFM:71940
+IDFM:2341	Mail de la Plaine	IDFM:70099
+IDFM:42106	Lacépède	IDFM:72379
+IDFM:42129	Villetaneuse - Université	IDFM:72396
+IDFM:463203	La Muette	IDFM:474150
+IDFM:21931	Franklin D. Roosevelt	IDFM:71318
+IDFM:22000	Saint-Marcel	IDFM:71092
+IDFM:22213	Créteil - Préfecture	IDFM:70021
+IDFM:23441	Brimborion	IDFM:69533
+IDFM:463133	Bonne Nouvelle	IDFM:71320
+IDFM:463308	Saint-Placide	IDFM:71184
+IDFM:463009	Stalingrad	IDFM:71961
+IDFM:10220	Terminal 1	IDFM:69212
+IDFM:478395	La Fourche	IDFM:71474
+IDFM:22238	Mairie de Clichy	IDFM:72118
+IDFM:480340	Pont Cardinet	IDFM:71475
+IDFM:41674	Georges Millandy	IDFM:420463
+IDFM:35946	Villejuif - Louis Aragon	IDFM:70143
+IDFM:21910	Saint-Ambroise	IDFM:71781
+IDFM:22139	Saint-Sulpice	IDFM:71202
+IDFM:463181	Franklin D. Roosevelt	IDFM:71318
+IDFM:22015	Bobigny Pablo Picasso	IDFM:72486
+IDFM:2328	Dewoitine	IDFM:416744
+IDFM:22215	Maisons-Alfort - Stade	IDFM:70426
+IDFM:21958	Gare de Lyon	IDFM:73626
+IDFM:462442	Epinettes - Pouchet	IDFM:72052
+IDFM:462998	Odéon	IDFM:73618
+IDFM:22187	Lourmel	IDFM:71086
+IDFM:24109	Jean Moulin	IDFM:70669
+IDFM:24408	Porte de Montreuil	IDFM:71710
+IDFM:24132	Jean Moulin	IDFM:70669
+IDFM:22385	Maison Blanche	IDFM:70645
+IDFM:22114	Pigalle	IDFM:71409
+IDFM:463082	Front Populaire	IDFM:74041
+IDFM:463156	Buttes Chaumont	IDFM:71900
+IDFM:22040	Pigalle	IDFM:71409
+IDFM:460559	Lamartine	IDFM:70036
+IDFM:462952	Guy Môquet	IDFM:71528
+IDFM:23289	Chemin des Reniers	IDFM:72311
+IDFM:42131	Jean Vilar	IDFM:72378
+IDFM:21935	Alma - Marceau	IDFM:71290
+IDFM:478981	Orly - Gaston Viens	IDFM:69656
+IDFM:462975	La Fourche	IDFM:71474
+IDFM:463110	Belleville	IDFM:71853
+IDFM:22086	Charles de Gaulle - Etoile	IDFM:71347
+IDFM:22626	Escadrille Normandie-Niemen	IDFM:72517
+IDFM:463257	Porte Maillot	IDFM:71379
+IDFM:463234	Porte d'Auteuil	IDFM:71169
+IDFM:463011	Champs-Élysées - Clemenceau	IDFM:71305
+IDFM:22185	Invalides	IDFM:71274
+IDFM:22624	Bobigny - Pablo Picasso	IDFM:72486
+IDFM:463207	Les Agnettes	IDFM:72240
+IDFM:24107	Alexandra David-Néel	IDFM:71632
+IDFM:21956	Cour Saint-Emilion	IDFM:71576
+IDFM:23439	Jacques-Henri Lartigue	IDFM:70662
+IDFM:22387	Gare de l'Est	IDFM:71359
+IDFM:463282	Pré-Saint-Gervais	IDFM:71911
+IDFM:463158	Châtelet	IDFM:71264
+IDFM:23291	Mairie de Villeneuve-la-Garenne	IDFM:72324
+IDFM:463080	Hôtel de Ville	IDFM:415852
+IDFM:22116	Ménilmontant	IDFM:71815
+IDFM:10218	Terminal 2 Gare	IDFM:73699
+IDFM:22364	Châtelet	IDFM:71264
+IDFM:28855	Jacques Prévert	IDFM:73923
+IDFM:460557	Henri Farman	IDFM:73612
+IDFM:41851	Vélizy 2	IDFM:420144
+IDFM:29379	Porte de la Villette	IDFM:72430
+IDFM:478983	Les Saules	IDFM:69662
+IDFM:42108	Rose Bertin	IDFM:72376
+IDFM:462977	Garibaldi	IDFM:72128
+IDFM:483313	Barbara	IDFM:70441
+IDFM:21933	Bonne Nouvelle	IDFM:71320
+IDFM:463306	Saint-Michel	IDFM:73620
+IDFM:21981	Gare d'Austerlitz	IDFM:71135
+IDFM:22038	Montparnasse Bienvenue	IDFM:71139
+IDFM:463034	Louis Blanc	IDFM:71407
+IDFM:22162	La Motte-Picquet - Grenelle	IDFM:71199
+IDFM:22061	Corentin Celton	IDFM:70990
+IDFM:463135	Boucicaut	IDFM:412992
+IDFM:41672	Vauban	IDFM:70396
+IDFM:42133	César	IDFM:72366
+IDFM:22240	Basilique de Saint-Denis	IDFM:72326
+IDFM:24410	Hôpital Robert Debré	IDFM:71914
+IDFM:22263	Petit Noisy	IDFM:72438
+IDFM:463057	Pointe du Lac	IDFM:69884
+IDFM:463160	Châtelet	IDFM:71264
+IDFM:462996	Montparnasse Bienvenue	IDFM:71139
+IDFM:22160	Saint-Jacques	IDFM:71041
+IDFM:22090	Champs-Élysées - Clemenceau	IDFM:71305
+IDFM:462948	Pasteur	IDFM:71125
+IDFM:22112	Père Lachaise	IDFM:71787
+IDFM:463230	Philippe Auguste	IDFM:71751
+IDFM:22242	Saint-Denis - Université	IDFM:72358
+IDFM:22383	Les Gobelins	IDFM:71076
+IDFM:479013	Camille Groult	IDFM:70101
+IDFM:22042	Porte de Versailles	IDFM:71045
+IDFM:480964	Pont du Garigliano	IDFM:74002
+IDFM:29895	Domaine Chérioux	IDFM:70022
+IDFM:462973	Marcadet - Poissonniers	IDFM:71511
+IDFM:28874	Les Cholettes	IDFM:65586
+IDFM:462438	Honoré De Balzac	IDFM:424926
+IDFM:21937	République	IDFM:71311
+IDFM:463112	Bibliothèque François Mitterrand	IDFM:71572
+IDFM:42110	Les Béatus	IDFM:72372
+IDFM:460563	Porte de Vincennes	IDFM:71663
+IDFM:462415	Diane Arbus - Porte des Poissonniers	IDFM:72061
+IDFM:21985	Chardon Lagache	IDFM:71141
+IDFM:23293	Chemin des Reniers	IDFM:72311
+IDFM:463211	Lourmel	IDFM:71086
+IDFM:463030	Porte de Choisy	IDFM:70604
+IDFM:28851	Petit Pierrefitte	IDFM:72371
+IDFM:21912	Saint-Philippe du Roule	IDFM:71334
+IDFM:22137	Saint-Michel	IDFM:73620
+IDFM:22217	Saint-François-Xavier	IDFM:71204
+IDFM:463053	Robespierre	IDFM:71725
+IDFM:463183	Gare du Nord	IDFM:71410
+IDFM:463137	Boulogne Jean Jaurès	IDFM:71147
+IDFM:21983	Cluny - La Sorbonne	IDFM:73619
+IDFM:22088	Argentine	IDFM:71348
+IDFM:24134	Porte Dorée	IDFM:71591
+IDFM:463304	Saint-Georges	IDFM:71366
+IDFM:462440	Porte d'Asnières - Marguerite Long	IDFM:71505
+IDFM:482428	Châtillon - Montrouge	IDFM:461505
+IDFM:463032	Stalingrad	IDFM:71961
+IDFM:24406	Porte de Montreuil	IDFM:71710
+IDFM:462950	Rue du Bac	IDFM:71227
+IDFM:21914	Porte de Saint-Cloud	IDFM:71084
+IDFM:463278	Porte de Clichy	IDFM:71545
+IDFM:463185	George V	IDFM:71328
+IDFM:22219	Porte de Clichy	IDFM:71545
+IDFM:24429	Stade Géo André	IDFM:73697
+IDFM:24431	Gare de Saint-Denis	IDFM:72323
+IDFM:463255	Poissonnière	IDFM:71363
+IDFM:22158	Denfert-Rochereau	IDFM:71056
+IDFM:463055	Rue de la Pompe	IDFM:71292
+IDFM:42112	Épinay-sur-Seine - Gare	IDFM:72383
+IDFM:463232	Pont Neuf	IDFM:71253
+IDFM:22135	Vavin	IDFM:71117
+IDFM:463078	Jussieu	IDFM:71148
+IDFM:463209	Liberté	IDFM:71558
+IDFM:21960	Pyramides	IDFM:73788
+IDFM:2347	Meudon-la-Forêt	IDFM:69466
+IDFM:24111	Porte de Versailles - Parc des Expositions	IDFM:71045
+IDFM:25636	Porte d'Issy	IDFM:73654
+IDFM:463280	Porte de Pantin	IDFM:71989
+IDFM:23437	Charlebourg	IDFM:72137
+IDFM:22183	La Motte-Picquet - Grenelle	IDFM:71199
+IDFM:29893	Hélène Boucher (Orlytech)	IDFM:74008
+IDFM:28853	Butte Pinson (Parc Régional)	IDFM:72796
+IDFM:22017	Hoche	IDFM:72004
+IDFM:41853	Robert Wagner	IDFM:422455
+IDFM:463007	Porte de la Villette	IDFM:72430
+IDFM:463114	Boissière	IDFM:71301
+IDFM:28876	Les Cholettes	IDFM:65586
+IDFM:460561	Baron le Roy	IDFM:71570
+IDFM:478979	Porte de Choisy	IDFM:70604
+IDFM:479010	Carle - Darthé	IDFM:69781
+IDFM:22221	Porte de Vanves	IDFM:71006
+IDFM:463238	Michel-Ange - Auteuil	IDFM:71206
+IDFM:21987	Avenue Émile Zola	IDFM:71158
+IDFM:22081	Louvre - Rivoli	IDFM:73630
+IDFM:22010	Bastille	IDFM:463564
+IDFM:22368	Stalingrad	IDFM:71961
+IDFM:463286	Père Lachaise	IDFM:71787
+IDFM:25640	Meudon-sur-Seine	IDFM:70587
+IDFM:41855	Division Leclerc	IDFM:70222
+IDFM:2334	Louvois	IDFM:63703
+IDFM:478987	Watteau - Rondenay	IDFM:70001
+IDFM:22033	Bourse	IDFM:73635
+IDFM:23312	Cimetière de Saint-Denis	IDFM:72322
+IDFM:24685	Bolivar	IDFM:71920
+IDFM:29902	Bretagne	IDFM:69888
+IDFM:463027	Ourcq	IDFM:71972
+IDFM:486824	Cité-Jardin	IDFM:425730
+IDFM:463139	Cadet	IDFM:71351
+IDFM:460554	Parc des Chanteraines	IDFM:72307
+IDFM:463162	Commerce	IDFM:71132
+IDFM:463263	Porte des Lilas	IDFM:71889
+IDFM:22244	Garibaldi	IDFM:72128
+IDFM:22157	Montparnasse Bienvenue	IDFM:71139
+IDFM:21964	Saint-Lazare	IDFM:71370
+IDFM:22267	Marché de Saint-Denis	IDFM:72333
+IDFM:29897	Auguste Perret (Cimetière Parisien)	IDFM:69837
+IDFM:23284	Timbaud	IDFM:72314
+IDFM:22134	Strasbourg - Saint-Denis	IDFM:73633
+IDFM:21941	Mairie de Montreuil	IDFM:71785
+IDFM:462981	Jaurès	IDFM:71940
+IDFM:28848	Suzanne Valadon	IDFM:72397
+IDFM:24414	Porte de Bagnolet	IDFM:71799
+IDFM:463240	Monceau	IDFM:73671
+IDFM:463314	Sèvres-Lecourbe	IDFM:71144
+IDFM:24125	Montempoivre	IDFM:71612
+IDFM:42114	Les Béatus	IDFM:72372
+IDFM:463164	Concorde	IDFM:71298
+IDFM:22079	Palais Royal - Musée du Louvre	IDFM:71297
+IDFM:462983	Couronnes	IDFM:71834
+IDFM:460552	La Noue	IDFM:72313
+IDFM:22155	Raspail	IDFM:71088
+IDFM:25638	Issy - Val de Seine	IDFM:71016
+IDFM:22370	Tolbiac	IDFM:71001
+IDFM:463213	Malakoff - Plateau de Vanves	IDFM:73766
+IDFM:21962	Saint-Lazare	IDFM:71370
+IDFM:486847	Vallée aux Loups	IDFM:425723
+IDFM:22132	Marcadet - Poissonniers	IDFM:71511
+IDFM:463116	Abbesses	IDFM:71432
+IDFM:22269	Théâtre Gérard Philipe	IDFM:72327
+IDFM:22056	Falguière	IDFM:73641
+IDFM:463288	Quai de la Gare	IDFM:71597
+IDFM:35929	Porte de Thiais	IDFM:73753
+IDFM:463004	Nationale	IDFM:71043
+IDFM:462958	Javel - André Citroën	IDFM:71150
+IDFM:463052	Alma - Marceau	IDFM:71290
+IDFM:24102	Pont du Garigliano	IDFM:74002
+IDFM:463141	Cardinal Lemoine	IDFM:71153
+IDFM:2332	Mairie de Vélizy	IDFM:63706
+IDFM:22109	Victor Hugo	IDFM:71315
+IDFM:21939	Billancourt	IDFM:71034
+IDFM:463075	Dugommier	IDFM:71606
+IDFM:22393	Fort d'Aubervilliers	IDFM:73695
+IDFM:21916	Voltaire	IDFM:71750
+IDFM:28873	Paul Valéry	IDFM:65618
+IDFM:22008	Bréguet-Sabin	IDFM:73621
+IDFM:22180	Boissière	IDFM:71301
+IDFM:23310	Gare de Noisy-le-Sec	IDFM:72041
+IDFM:477913	Asnières - Quatre Routes	IDFM:72267
+IDFM:463187	Goncourt	IDFM:71840
+IDFM:23434	Les Fauvelles	IDFM:72099
+IDFM:24687	Danube	IDFM:71930
+IDFM:463098	Picpus	IDFM:71639
+IDFM:28850	Butte Pinson (Parc Régional)	IDFM:72796
+IDFM:460556	Henri Farman	IDFM:73612
+IDFM:462444	Diane Arbus - Porte des Poissonniers	IDFM:72061
+IDFM:463189	Havre-Caumartin	IDFM:482368
+IDFM:23432	Victor Basch	IDFM:70972
+IDFM:21943	Croix de Chavaux	IDFM:71756
+IDFM:463217	Les Sablons	IDFM:425779
+IDFM:41952	Centre de Châtillon	IDFM:70362
+IDFM:463096	Richard-Lenoir	IDFM:73648
+IDFM:23286	Parc des Chanteraines	IDFM:72307
+IDFM:463259	Porte de Saint-Cloud	IDFM:71084
+IDFM:463166	Créteil - L'Échat	IDFM:70269
+IDFM:21918	République	IDFM:71311
+IDFM:463312	Strasbourg - Saint-Denis	IDFM:73633
+IDFM:22178	Bercy	IDFM:71607
+IDFM:463000	Bastille	IDFM:463564
+IDFM:22223	Plaisance	IDFM:71039
+IDFM:42116	Blumenthal	IDFM:72364
+IDFM:463236	Marx Dormoy	IDFM:71510
+IDFM:24106	Porte d'Italie	IDFM:70596
+IDFM:462954	Montparnasse Bienvenue	IDFM:71139
+IDFM:22296	Suzanne Lenglen	IDFM:71042
+IDFM:463284	Pyramides	IDFM:73788
+IDFM:22083	Gare de Lyon	IDFM:73626
+IDFM:21991	Pyrénées	IDFM:71864
+IDFM:463071	Saint-Fargeau	IDFM:71860
+IDFM:41857	Soleil Levant	IDFM:70186
+IDFM:463118	Alésia	IDFM:71030
+IDFM:22060	Assemblée Nationale	IDFM:73642
+IDFM:22105	Bérault	IDFM:71650
+IDFM:412354	Funiculaire Gare basse	IDFM:73849
+IDFM:23314	Cimetière de Saint-Denis	IDFM:72322
+IDFM:479006	Châteaudun - Barbès	IDFM:70549
+IDFM:41671	Vauban	IDFM:70396
+IDFM:24683	Buttes Chaumont	IDFM:71900
+IDFM:22200	Filles du Calvaire	IDFM:71277
+IDFM:24129	Porte de Vanves	IDFM:71006
+IDFM:463002	Bobigny-Pantin - Raymond Queneau	IDFM:72039
+IDFM:10215	Parc Pr	IDFM:74162
+IDFM:463261	Porte de Versailles	IDFM:71045
+IDFM:35927	Aéroport d'Orly	IDFM:63278
+IDFM:463191	Jacques Bonsergent	IDFM:71322
+IDFM:22176	Cambronne	IDFM:71167
+IDFM:24104	Brancion	IDFM:71007
+IDFM:462956	Exelmans	IDFM:71124
+IDFM:463050	Porte Dorée	IDFM:71591
+IDFM:36482	Baron le Roy	IDFM:71570
+IDFM:22225	Liège	IDFM:71382
+IDFM:463143	Charonne	IDFM:73647
+IDFM:22107	Stalingrad	IDFM:71961
+IDFM:24412	Colette Besson	IDFM:72066
+IDFM:28846	Marché de Saint-Denis	IDFM:72333
+IDFM:22202	Chemin Vert	IDFM:73622
+IDFM:463073	Porte de Clignancourt	IDFM:478883
+IDFM:22391	Censier - Daubenton	IDFM:71100
+IDFM:479008	Christophe Colomb	IDFM:69719
+IDFM:2330	Louvois	IDFM:63703
+IDFM:28869	Lochères	IDFM:65604
+IDFM:29899	Caroline Aigle (Orlyfret)	IDFM:69606
+IDFM:22199	République	IDFM:71311
+IDFM:24127	Poterne des Peupliers	IDFM:70626
+IDFM:21920	Strasbourg - Saint-Denis	IDFM:73633
+IDFM:23288	Le Village	IDFM:72305
+IDFM:22389	Corentin Cariou	IDFM:72031
+IDFM:25642	La Défense (Grande Arche)	IDFM:71517
+IDFM:462446	Porte de Saint-Ouen	IDFM:72078
+IDFM:463215	Maraîchers	IDFM:71703
+IDFM:22153	Château d'Eau	IDFM:71333
+IDFM:22012	Laumière	IDFM:71957
+IDFM:463048	Filles du Calvaire	IDFM:71277
+IDFM:22035	Pont de Levallois - Bécon	IDFM:72057
+IDFM:21966	Châtelet	IDFM:71264
+IDFM:22130	Barbès - Rochechouart	IDFM:71426
+IDFM:22366	Place Monge	IDFM:71133
+IDFM:462400	Antony	IDFM:69759
+IDFM:486845	Les Peintres	IDFM:69839
+IDFM:463120	Anvers	IDFM:71419
+IDFM:478985	Les Saules	IDFM:69662
+IDFM:22058	Convention	IDFM:71075
+IDFM:463025	Place d'Italie	IDFM:71033
+IDFM:21989	Boulogne Pont de Saint-Cloud	IDFM:70721
+IDFM:463310	Simplon	IDFM:71556
+IDFM:29900	La Fraternelle	IDFM:69633
+IDFM:486822	Vallée aux Loups	IDFM:425723
+IDFM:462979	Château d'Eau	IDFM:71333
+IDFM:462987	Villiers	IDFM:71403
+IDFM:24420	Colette Besson	IDFM:72066
+IDFM:22374	Porte de la Villette	IDFM:72430
+IDFM:22151	Denfert-Rochereau	IDFM:71056
+IDFM:21970	Duroc	IDFM:71159
+IDFM:463221	Mairie de Montreuil	IDFM:71785
+IDFM:24121	Brancion	IDFM:71007
+IDFM:42118	Pierre de Geyter	IDFM:72292
+IDFM:22298	Puteaux	IDFM:71422
+IDFM:22027	Villiers	IDFM:71403
+IDFM:479004	Cimetière Parisien d'Ivry	IDFM:70486
+IDFM:22303	Belvédère	IDFM:70845
+IDFM:462429	Porte de Clichy - Tribunal de Paris	IDFM:71545
+IDFM:22103	Saint-Mandé	IDFM:71647
+IDFM:486843	Petit-Châtenay	IDFM:69814
+IDFM:463292	Raspail	IDFM:71088
+IDFM:25646	Suresnes Longchamp	IDFM:70811
+IDFM:486818	Noveos	IDFM:69978
+IDFM:22075	Tuileries	IDFM:71284
+IDFM:21993	Télégraphe	IDFM:71870
+IDFM:462964	Volontaires	IDFM:71113
+IDFM:28865	Guynemer	IDFM:72365
+IDFM:23430	Jacqueline Auriol	IDFM:70969
+IDFM:37466	Hôtel de Ville de Bobigny	IDFM:72477
+IDFM:2340	Mail de la Plaine	IDFM:70099
+IDFM:24679	Front Populaire	IDFM:74041
+IDFM:463320	Varenne	IDFM:71232
+IDFM:463122	Arts et Métiers	IDFM:71293
+IDFM:478993	Beethoven - Concorde	IDFM:70273
+IDFM:22098	Reuilly - Diderot	IDFM:71654
+IDFM:463145	Chaussée d'Antin - La Fayette	IDFM:73689
+IDFM:27464	Brimborion	IDFM:69533
+IDFM:463219	Mairie d'Issy	IDFM:70671
+IDFM:463021	Gare de l'Est	IDFM:71359
+IDFM:463168	Daumesnil	IDFM:71614
+IDFM:22004	Quai de la Rapée	IDFM:71637
+IDFM:22397	Pierre et Marie Curie	IDFM:70537
+IDFM:463094	Barbès - Rochechouart	IDFM:71426
+IDFM:463044	Pont de Neuilly	IDFM:71442
+IDFM:22128	Belleville	IDFM:71853
+IDFM:478995	La Briqueterie	IDFM:70391
+IDFM:22050	Notre-Dame-de-Lorette	IDFM:71350
+IDFM:22149	Gare du Nord	IDFM:71410
+IDFM:25644	Parc de Saint-Cloud	IDFM:70726
+IDFM:463269	Villejuif - Louis Aragon	IDFM:70143
+IDFM:462431	Porte de Clignancourt	IDFM:478883
+IDFM:23278	Les Courtilles	IDFM:72286
+IDFM:463046	Gare de Lyon	IDFM:73626
+IDFM:21968	Jussieu	IDFM:71148
+IDFM:42120	Saint-Denis - Porte de Paris	IDFM:72285
+IDFM:24681	Louis Blanc	IDFM:71407
+IDFM:463023	Gare d'Austerlitz	IDFM:71135
+IDFM:22002	Richard-Lenoir	IDFM:73648
+IDFM:463246	Opéra	IDFM:71337
+IDFM:486820	Malabry	IDFM:480872
+IDFM:22126	Couronnes	IDFM:71834
+IDFM:22399	Villejuif Léo Lagrange	IDFM:70375
+IDFM:463092	Porte d'Orléans	IDFM:70657
+IDFM:24422	Adrienne Bolland	IDFM:73669
+IDFM:463223	Mairie des Lilas	IDFM:71909
+IDFM:412988	Porte de la Chapelle	IDFM:72064
+IDFM:22174	Chevaleret	IDFM:73651
+IDFM:463193	La Défense (Grande Arche)	IDFM:71517
+IDFM:21945	Gambetta	IDFM:71808
+IDFM:35935	Saarinen	IDFM:69700
+IDFM:463069	Europe	IDFM:73617
+IDFM:2338	Parc André Malraux	IDFM:70310
+IDFM:22227	La Fourche	IDFM:71474
+IDFM:463170	Esplanade de la Défense	IDFM:71485
+IDFM:24119	Montsouris	IDFM:70620
+IDFM:22400	Villejuif - Louis Aragon	IDFM:70143
+IDFM:22096	Concorde	IDFM:71298
+IDFM:22204	Faidherbe - Chaligny	IDFM:74001
+IDFM:463318	Trocadéro	IDFM:71285
+IDFM:23280	Le Village	IDFM:72305
+IDFM:463294	Reuilly - Diderot	IDFM:71654
+IDFM:23428	Jacqueline Auriol	IDFM:70969
+IDFM:28867	Baudelaire	IDFM:73921
+IDFM:22073	Nation	IDFM:71673
+IDFM:23304	Hôpital Avicenne	IDFM:72534
+IDFM:21922	Michel-Ange - Auteuil	IDFM:71206
+IDFM:22197	Grands Boulevards	IDFM:71326
+IDFM:486839	Hôpital Béclère	IDFM:423879
+IDFM:22124	Avron	IDFM:71697
+IDFM:463090	Bourse	IDFM:73635
+IDFM:463265	Sully - Morland	IDFM:71201
+IDFM:22172	Edgar Quinet	IDFM:71108
+IDFM:463124	Avenue Émile Zola	IDFM:71158
+IDFM:463195	Ledru-Rollin	IDFM:71693
+IDFM:463200	La Courneuve - 8 Mai 1945	IDFM:73696
+IDFM:42122	Saint-Denis - Gare	IDFM:72323
+IDFM:22229	Duroc	IDFM:71159
+IDFM:24100	Cité Universitaire	IDFM:70623
+IDFM:478991	La Briqueterie	IDFM:70391
+IDFM:463242	Mouton-Duvernet	IDFM:73653
+IDFM:22195	Opéra	IDFM:71337
+IDFM:463147	Chevaleret	IDFM:73651
+IDFM:22634	Basilique de Saint-Denis	IDFM:72326
+IDFM:22006	Place d'Italie	IDFM:71033
+IDFM:22206	Michel Bizot	IDFM:71595
+IDFM:460550	Hôpital Delafontaine	IDFM:461959
+IDFM:22395	La Courneuve - 8 Mai 1945	IDFM:73696
+IDFM:463172	Faidherbe - Chaligny	IDFM:74001
+IDFM:24416	Butte du Chapeau Rouge	IDFM:73801
+IDFM:463042	Charles de Gaulle - Etoile	IDFM:71347
+IDFM:463065	Jules Joffrin	IDFM:71521
+IDFM:462960	République	IDFM:71311
+IDFM:24123	Avenue de France	IDFM:427076
+IDFM:22077	Porte de Vincennes	IDFM:71663
+IDFM:463017	Hoche	IDFM:72004
+IDFM:463290	Ranelagh	IDFM:71243
+IDFM:462937	Porte de l'Essonne	IDFM:74009
+IDFM:22442	Rue des Boulets	IDFM:71694
+IDFM:479000	Four - Peary	IDFM:69742
+IDFM:21949	Porte des Lilas	IDFM:71889
+IDFM:35931	Auguste Perret (Cimetière Parisien)	IDFM:69837
+IDFM:478989	Verdun - Hoche	IDFM:69870
+IDFM:29904	Moulin Vert	IDFM:69925
+IDFM:22301	Les Coteaux	IDFM:70763
+IDFM:22031	Malesherbes	IDFM:71416
+IDFM:21926	Havre-Caumartin	IDFM:482368
+IDFM:422040	Viroflay - Rive Droite	IDFM:422420
+IDFM:486841	La Croix de Berny	IDFM:69813
+IDFM:22054	Jules Joffrin	IDFM:71521
+IDFM:28863	Roger Semât	IDFM:72355
+IDFM:463101	Passy	IDFM:71237
+IDFM:23308	L'Île-Saint-Denis	IDFM:72319
+IDFM:463067	Nation	IDFM:71673
+IDFM:463019	Bastille	IDFM:463564
+IDFM:463088	Pigalle	IDFM:71409
+IDFM:2336	Châtillon - Montrouge	IDFM:461505
+IDFM:21947	Porte des Lilas	IDFM:71889
+IDFM:463316	Temple	IDFM:71296
+IDFM:462914	Marcel Sembat	IDFM:71054
+IDFM:21924	Miromesnil	IDFM:71346
+IDFM:23306	Drancy - Avenir	IDFM:72549
+IDFM:22372	Porte d'Ivry	IDFM:70636
+IDFM:22052	Marcadet - Poissonniers	IDFM:71511
+IDFM:21972	Javel - André Citroën	IDFM:71150
+IDFM:462985	Pont de Levallois - Bécon	IDFM:72057
+IDFM:486816	Parc des Sports	IDFM:70009
+IDFM:463267	Tolbiac	IDFM:71001
+IDFM:22101	La Défense (Grande Arche)	IDFM:71517
+IDFM:463126	Basilique de Saint-Denis	IDFM:72326
+IDFM:22029	Sentier	IDFM:73634
+IDFM:42124	Paul Éluard	IDFM:72335
+IDFM:463244	Opéra	IDFM:71337
+IDFM:22231	Brochant	IDFM:73661
+IDFM:479002	Constant Coquelin	IDFM:70027
+IDFM:463149	Château de Vincennes	IDFM:71634
+IDFM:24394	Marie de Miribel	IDFM:73802
+IDFM:22147	Etienne Marcel	IDFM:479068
+IDFM:24418	Hôpital Robert Debré	IDFM:71914
+IDFM:21995	Jourdain	IDFM:71868
+IDFM:462962	République	IDFM:71311
+IDFM:422038	Viroflay - Rive Gauche	IDFM:63923
+IDFM:463151	Concorde	IDFM:71298
+IDFM:22045	Solférino	IDFM:71270
+IDFM:483904	Mairie d'Aubervilliers	IDFM:72524
+IDFM:478999	Germaine Tailleferre	IDFM:70350
+IDFM:2346	Georges Pompidou	IDFM:70149
+IDFM:42101	Épinay - Orgemont	IDFM:72382
+IDFM:21999	Mairie des Lilas	IDFM:71909
+IDFM:486836	Noveos	IDFM:69978
+IDFM:462993	Saint-Germain-des-Prés	IDFM:71216
+IDFM:462945	Rambuteau	IDFM:71273
+IDFM:22233	Asnières - Gennevilliers Les Courtilles	IDFM:72286
+IDFM:21928	Jasmin	IDFM:73657
+IDFM:462970	Saint-Lazare	IDFM:71370
+IDFM:35941	La Belle Epine	IDFM:69762
+IDFM:463087	Châtillon-Montrouge	IDFM:461505
+IDFM:463103	Denfert-Rochereau	IDFM:71056
+IDFM:463303	Saint-François-Xavier	IDFM:71204
+IDFM:22093	Champs-Élysées - Clemenceau	IDFM:71305
+IDFM:24114	Porte de Versailles - Parc des Expositions	IDFM:71045
+IDFM:463227	Palais Royal - Musée du Louvre	IDFM:71297
+IDFM:24426	La Courneuve - 8 Mai 1945	IDFM:73696
+IDFM:463202	La Motte-Picquet - Grenelle	IDFM:71199
+IDFM:463197	Gare de Lyon	IDFM:73626
+IDFM:28860	Petit Pierrefitte	IDFM:72371
+IDFM:22380	Porte d'Italie	IDFM:70596
+IDFM:463298	Rue des Boulets	IDFM:71694
+IDFM:21903	République	IDFM:71311
+IDFM:22208	Porte de Charenton	IDFM:71579
+IDFM:463062	Notre-Dame-de-Lorette	IDFM:71350
+IDFM:482427	Marché de Saint-Denis	IDFM:72333
+IDFM:463174	Gallieni	IDFM:71817
+IDFM:22022	Porte de Bagnolet	IDFM:71799
+IDFM:24398	Ella Fitzgerald	IDFM:73799
+IDFM:21976	Sèvres - Babylone	IDFM:71203
+IDFM:22169	Nationale	IDFM:71043
+IDFM:21974	Porte d'Auteuil	IDFM:71169
+IDFM:463252	Place de Clichy	IDFM:71435
+IDFM:2272	Terminal 3	IDFM:73596
+IDFM:463041	Tuileries	IDFM:71284
+IDFM:42126	Saint-Denis - Gare	IDFM:72323
+IDFM:463199	Invalides	IDFM:71274
+IDFM:463128	Bercy	IDFM:71607
+IDFM:473828	Orly 4	IDFM:63278
+IDFM:463064	Madeleine	IDFM:71324
+IDFM:24403	Porte de Pantin - Parc de la Villette	IDFM:71989
+IDFM:21905	Oberkampf	IDFM:71803
+IDFM:462995	Odéon	IDFM:73618
+IDFM:24396	Porte de Vincennes	IDFM:71663
+IDFM:24137	Avenue de France	IDFM:427076
+IDFM:463176	Croix de Chavaux	IDFM:71756
+IDFM:22020	Père Lachaise	IDFM:71787
+IDFM:21997	Arts et Métiers	IDFM:71293
+IDFM:23296	Libération	IDFM:72472
+IDFM:22167	Picpus	IDFM:71639
+IDFM:22382	Le Peletier	IDFM:478885
+IDFM:42103	Les Mobiles	IDFM:72367
+IDFM:22192	La Tour-Maubourg	IDFM:71242
+IDFM:463324	Villejuif Paul Vaillant-Couturier	IDFM:70248
+IDFM:22631	La Courneuve - Six Routes	IDFM:72637
+IDFM:2344	Hôpital Béclère	IDFM:423879
+IDFM:21951	Place des Fêtes	IDFM:71885
+IDFM:22144	Mouton-Duvernet	IDFM:73653
+IDFM:22210	Charenton - Écoles	IDFM:70648
+IDFM:462437	Angélique Compoint - Porte de Montmartre	IDFM:72081
+IDFM:478976	Musée MAC VAL	IDFM:70198
+IDFM:463039	Buzenval	IDFM:479928
+IDFM:462414	Porte de Clignancourt	IDFM:478883
+IDFM:22121	Courcelles	IDFM:71376
+IDFM:22091	Hôtel de Ville	IDFM:415852
+IDFM:463016	Vavin	IDFM:71117
+IDFM:463301	Saint-Denis - Porte de Paris	IDFM:72285
+IDFM:463105	Corvisart	IDFM:71013
+IDFM:462947	Pasteur	IDFM:71125
+IDFM:463229	Pernety	IDFM:412687
+IDFM:28856	Alcide d'Orbigny	IDFM:72414
+IDFM:22190	Commerce	IDFM:71132
+IDFM:25631	Porte de Versailles	IDFM:71045
+IDFM:463130	Bérault	IDFM:71650
+IDFM:22072	Nation	IDFM:71673
+IDFM:22001	Stalingrad	IDFM:71961
+IDFM:22142	Réaumur - Sébastopol	IDFM:73636
+IDFM:22212	Créteil - Université	IDFM:70172
+IDFM:21955	Bibliothèque François Mitterrand	IDFM:71572
+IDFM:463060	Châtelet	IDFM:71264
+IDFM:21978	Odéon	IDFM:73618
+IDFM:22024	Quatre Septembre	IDFM:71313
+IDFM:463153	Corentin Celton	IDFM:70990
+IDFM:24118	Porte d'Orléans	IDFM:70657
+IDFM:462989	Quatre Septembre	IDFM:71313
+IDFM:22117	Monceau	IDFM:73671
+IDFM:22376	Palais Royal - Musée du Louvre	IDFM:71297
+IDFM:23303	Stade Géo André	IDFM:73697
+IDFM:42128	Jean Vilar	IDFM:72378
+IDFM:21932	Chaussée d'Antin - La Fayette	IDFM:73689
+IDFM:24141	Maryse Bastié	IDFM:73623
+IDFM:479384	Garges - Sarcelles	IDFM:65582
+IDFM:22629	La Courneuve - 8 Mai 1945	IDFM:73696
+IDFM:22258	Auguste Delaune	IDFM:72479
+IDFM:23444	Musée de Sèvres	IDFM:70692
+IDFM:35937	La Belle Epine	IDFM:69762
+IDFM:23298	La Ferme	IDFM:73787
+IDFM:463035	Billancourt	IDFM:71034
+IDFM:462943	Nation	IDFM:71673
+IDFM:22235	Malakoff - Plateau de Vanves	IDFM:73766
+IDFM:462966	Sèvres - Babylone	IDFM:71203
+IDFM:22095	Charles de Gaulle - Etoile	IDFM:71347
+IDFM:463012	Porte de Vincennes	IDFM:71663
+IDFM:463085	Plaisance	IDFM:71039
+IDFM:463322	Victor Hugo	IDFM:71315
+IDFM:2342	Hôpital Béclère	IDFM:423879
+IDFM:463225	Maisons-Alfort - Stade	IDFM:70426
+IDFM:23301	Hôtel de Ville de la Courneuve	IDFM:72622
+IDFM:22119	La Chapelle	IDFM:71434
+IDFM:42105	Blumenthal	IDFM:72364
+IDFM:22378	Pont Marie (Cité des Arts)	IDFM:71217
+IDFM:24424	Drancy - Avenir	IDFM:72549
+IDFM:463204	La Tour-Maubourg	IDFM:71242
+IDFM:478974	Orly - Gaston Viens	IDFM:69656
+IDFM:22627	Escadrille Normandie-Niemen	IDFM:72517
+IDFM:463296	Rome	IDFM:71408
+IDFM:21930	Exelmans	IDFM:71124
+IDFM:463037	Richelieu - Drouot	IDFM:71330
+IDFM:23442	Les Milons	IDFM:73613
+IDFM:35939	Saarinen	IDFM:69700
+IDFM:463107	Le Kremlin-Bicêtre	IDFM:70452
+IDFM:22237	Châtillon-Montrouge	IDFM:461505
+IDFM:462968	Rennes	IDFM:73640
+IDFM:463083	Duroc	IDFM:71159
+IDFM:463014	Antony	IDFM:69759
+IDFM:478997	Mairie de Vitry-sur-Seine	IDFM:70169
+IDFM:463250	Parmentier	IDFM:71801
+IDFM:22047	Vaugirard	IDFM:71091
+IDFM:28858	Joncherolles	IDFM:73922
+IDFM:42130	Pablo Neruda	IDFM:72387
+IDFM:463178	Église de Pantin	IDFM:72024
+IDFM:463132	Bolivar	IDFM:71920
+IDFM:480531	Porte de Clichy	IDFM:71545
+IDFM:462991	Gambetta	IDFM:71808
+IDFM:22188	Boucicaut	IDFM:412992
+IDFM:24139	Alexandra David-Néel	IDFM:71632
+IDFM:22260	Jean Rostand	IDFM:72490
+IDFM:24531	Rosa Parks	IDFM:73798
+IDFM:22165	Passy	IDFM:71237
+IDFM:463155	Crimée	IDFM:72013
+IDFM:24116	Desnouettes	IDFM:71055
+IDFM:24401	Canal Saint-Denis	IDFM:72424
+IDFM:21907	Michel-Ange - Auteuil	IDFM:71206
+IDFM:10219	Terminal 2 Gare	IDFM:73699
+IDFM:22115	Place de Clichy	IDFM:71435
+IDFM:463081	Madeleine	IDFM:71324
+IDFM:478982	Trois Communes	IDFM:69939
+IDFM:41850	Robert Wagner	IDFM:422455
+IDFM:24432	Faubourg de l'Arche	IDFM:72063
+IDFM:463256	Porte Dauphine	IDFM:474152
+IDFM:21934	Charonne	IDFM:73647
+IDFM:22186	Balard	IDFM:71073
+IDFM:463010	Champs-Élysées - Clemenceau	IDFM:71305
+IDFM:463233	Pont de Sèvres	IDFM:70698
+IDFM:22625	Bobigny - Pablo Picasso	IDFM:72486
+IDFM:24133	Porte d'Ivry	IDFM:70636
+IDFM:22087	Châtelet	IDFM:71264
+IDFM:24108	Balard	IDFM:71073
+IDFM:462999	Laumière	IDFM:71957
+IDFM:463208	Les Halles	IDFM:73794
+IDFM:22163	Sèvres-Lecourbe	IDFM:71144
+IDFM:463033	Louis Blanc	IDFM:71407
+IDFM:22386	Jussieu	IDFM:71148
+IDFM:24407	Porte d'Aubervilliers	IDFM:72434
+IDFM:463157	Censier - Daubenton	IDFM:71100
+IDFM:21909	Grands Boulevards	IDFM:71326
+IDFM:28854	Mairie de Pierrefitte	IDFM:72408
+IDFM:22016	Église de Pantin	IDFM:72024
+IDFM:463180	Franklin D. Roosevelt	IDFM:71318
+IDFM:22262	Gare de Noisy-le-Sec	IDFM:72041
+IDFM:486830	Petit-Châtenay	IDFM:69814
+IDFM:42107	Les Mobiles	IDFM:72367
+IDFM:22214	Ecole Vétérinaire de Maisons-Alfort	IDFM:70522
+IDFM:460560	Porte de Vincennes	IDFM:71663
+IDFM:22140	Porte d'Orléans	IDFM:70657
+IDFM:463056	Créteil - Préfecture	IDFM:70021
+IDFM:480286	Pont Cardinet	IDFM:71475
+IDFM:21982	Mirabeau	IDFM:71162
+IDFM:463109	Asnières - Gennevilliers Les Courtilles	IDFM:72286
+IDFM:463079	Châtelet	IDFM:71264
+IDFM:463281	Porte de la Chapelle	IDFM:72064
+IDFM:25635	Issy - Val de Seine	IDFM:71016
+IDFM:23290	Mairie de Villeneuve-la-Garenne	IDFM:72324
+IDFM:22039	Pasteur	IDFM:71125
+IDFM:483900	Aimé Césaire	IDFM:72491
+IDFM:42132	César	IDFM:72366
+IDFM:22264	Pont de Bondy	IDFM:72478
+IDFM:486832	LaVallée	IDFM:69807
+IDFM:22216	Maisons-Alfort - Les Juilliottes	IDFM:70358
+IDFM:22014	Bobigny-Pantin - Raymond Queneau	IDFM:72039
+IDFM:463111	Belleville	IDFM:71853
+IDFM:22085	Concorde	IDFM:71298
+IDFM:463182	Gare du Nord	IDFM:71410
+IDFM:463058	Grands Boulevards	IDFM:71326
+IDFM:463307	Saint-Paul (Le Marais)	IDFM:71222
+IDFM:462443	Angélique Compoint - Porte de Montmartre	IDFM:72081
+IDFM:22037	Gallieni	IDFM:71817
+IDFM:2327	Inovel Parc Nord	IDFM:63717
+IDFM:21980	Sèvres - Babylone	IDFM:71203
+IDFM:463134	Botzaris	IDFM:71906
+IDFM:22062	Mairie d'Issy	IDFM:70671
+IDFM:21784	Pointe du Lac	IDFM:69884
+IDFM:41673	Georges Millandy	IDFM:420463
+IDFM:460558	Coeur d'Orly	IDFM:69577
+IDFM:21911	Saint-Augustin	IDFM:73690
+IDFM:10217	Parc Px	IDFM:73595
+IDFM:25633	Porte de Versailles	IDFM:71045
+IDFM:463258	Porte de Champerret	IDFM:71450
+IDFM:22138	Saint-Placide	IDFM:71184
+IDFM:462976	Carrefour Pleyel	IDFM:72217
+IDFM:23440	Les Moulineaux	IDFM:70622
+IDFM:463206	Le Peletier	IDFM:478885
+IDFM:474424	Orly 4	IDFM:63278
+IDFM:21957	Bercy	IDFM:71607
+IDFM:463235	Porte d'Italie	IDFM:70596
+IDFM:24409	Porte des Lilas	IDFM:71889
+IDFM:22239	Carrefour Pleyel	IDFM:72217
+IDFM:462953	Gabriel Péri	IDFM:72203
+IDFM:24131	Georges Brassens	IDFM:71018
+IDFM:22018	Réaumur - Sébastopol	IDFM:73636
+IDFM:463277	Porte de Charenton	IDFM:71579
+IDFM:463006	Château Landon	IDFM:474149
+IDFM:21913	Porte de Montreuil	IDFM:71710
+IDFM:42109	Épinay - Orgemont	IDFM:72382
+IDFM:24428	Hôtel de Ville de la Courneuve	IDFM:72622
+IDFM:460562	Delphine Seyrig	IDFM:73800
+IDFM:22159	Strasbourg - Saint-Denis	IDFM:73633
+IDFM:463054	Oberkampf	IDFM:71803
+IDFM:478978	Rouget de Lisle	IDFM:69846
+IDFM:22136	Saint-Germain-des-Prés	IDFM:71216
+IDFM:463077	Jussieu	IDFM:71148
+IDFM:21984	Cardinal Lemoine	IDFM:71153
+IDFM:25637	Porte d'Issy	IDFM:73654
+IDFM:413057	Bretagne	IDFM:69888
+IDFM:21961	Madeleine	IDFM:71324
+IDFM:22043	Rue du Bac	IDFM:71227
+IDFM:480290	Mairie de Saint-Ouen	IDFM:72168
+IDFM:29894	Aéroport d'Orly	IDFM:63278
+IDFM:41852	L'Onde (Maison des Arts)	IDFM:73918
+IDFM:28875	Paul Valéry	IDFM:65618
+IDFM:462972	Saint-Lazare	IDFM:71370
+IDFM:483314	Bagneux - Lucie Aubrac	IDFM:483315
+IDFM:463254	Place des Fêtes	IDFM:71885
+IDFM:463113	Blanche	IDFM:71420
+IDFM:42111	Gilbert Bonnemaison	IDFM:72381
+IDFM:22089	Bastille	IDFM:463564
+IDFM:24135	Porte Dorée	IDFM:71591
+IDFM:463305	Saint-Jacques	IDFM:71041
+IDFM:24405	Marie de Miribel	IDFM:73802
+IDFM:463231	Pont Marie (Cité des Arts)	IDFM:71217
+IDFM:22161	Quai de la Gare	IDFM:71597
+IDFM:463136	Boulogne Pont de Saint-Cloud	IDFM:70721
+IDFM:24112	Stade Charléty - Porte de Gentilly	IDFM:70605
+IDFM:2348	Meudon-la-Forêt	IDFM:69466
+IDFM:42134	Pablo Neruda	IDFM:72387
+IDFM:23438	Jacques-Henri Lartigue	IDFM:70662
+IDFM:463159	Châtelet	IDFM:71264
+IDFM:35943	Robert Schuman (Parc Silic Centre)	IDFM:69670
+IDFM:486826	Les Peintres	IDFM:69839
+IDFM:22111	Porte Dauphine	IDFM:474152
+IDFM:22184	Daumesnil	IDFM:71614
+IDFM:22241	Saint-Denis - Porte de Paris	IDFM:72285
+IDFM:479012	Carle - Darthé	IDFM:69781
+IDFM:463029	Porte d'Ivry	IDFM:70636
+IDFM:28852	Mairie de Pierrefitte	IDFM:72408
+IDFM:41854	Vélizy 2	IDFM:420144
+IDFM:462974	Marcadet - Poissonniers	IDFM:71511
+IDFM:462439	Epinettes - Pouchet	IDFM:72052
+IDFM:22220	Porte de Saint-Ouen	IDFM:72078
+IDFM:21959	Châtelet	IDFM:71264
+IDFM:480288	Saint-Ouen	IDFM:72126
+IDFM:463008	Stalingrad	IDFM:71961
+IDFM:22243	Mairie de Saint-Ouen	IDFM:72168
+IDFM:462949	Convention	IDFM:71075
+IDFM:24110	Porte d'Ivry	IDFM:70636
+IDFM:463210	Louise Michel	IDFM:73667
+IDFM:35945	Lamartine	IDFM:70036
+IDFM:22113	Philippe Auguste	IDFM:71751
+IDFM:22182	Dugommier	IDFM:71606
+IDFM:23436	Charlebourg	IDFM:72137
+IDFM:462951	Porte de Saint-Ouen	IDFM:72078
+IDFM:486828	Théâtre La Piscine	IDFM:73764
+IDFM:463279	Porte de Montreuil	IDFM:71710
+IDFM:21936	Maraîchers	IDFM:71703
+IDFM:22218	Saint-Lazare	IDFM:71370
+IDFM:478980	Porte de Choisy	IDFM:70604
+IDFM:24430	Pont de Bondy	IDFM:72478
+IDFM:463184	Gaîté	IDFM:73675
+IDFM:463161	Cité	IDFM:71223
+IDFM:462997	Gambetta	IDFM:71808
+IDFM:462441	Porte de Clichy - Tribunal de Paris	IDFM:71545
+IDFM:23294	La Noue	IDFM:72313
+IDFM:463031	Aubervilliers-Pantin Quatre Chemins	IDFM:72460
+IDFM:22384	Louis Blanc	IDFM:71407
+IDFM:22041	Porte de la Chapelle	IDFM:72064

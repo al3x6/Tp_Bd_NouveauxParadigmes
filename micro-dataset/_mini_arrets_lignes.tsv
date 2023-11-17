@@ -1,4 +1,4 @@
-﻿route_id	stop_id	stop_name	stop_lon	stop_lat	OperatorName	Nom_commune	Code_insee
+﻿route_id	stop_id	stop_name stop_lon stop_lat OperatorName Nom_commune Code_insee
 IDFM:C01371	IDFM:22086	Charles de Gaulle - Etoile	2.2951172138230334	48.87392926445533	RATP	Paris	75056
 IDFM:C01371	IDFM:463041	Tuileries	2.3296780947116416	48.864477839314645	RATP	Paris	75056
 IDFM:C01371	IDFM:22077	Porte de Vincennes	2.4108049967015006	48.84700773108863	RATP	Paris	75056

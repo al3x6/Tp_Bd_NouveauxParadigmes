@@ -1,0 +1,227 @@
+[
+    {
+        "route_id": "IDFM:C01729",
+        "route_short_name": "E",
+        "route_long_name": "E"
+    },
+    {
+        "route_id": "IDFM:C01728",
+        "route_short_name": "D",
+        "route_long_name": "D"
+    },
+    {
+        "route_id": "IDFM:C01727",
+        "route_short_name": "C",
+        "route_long_name": "C"
+    },
+    {
+        "route_id": "IDFM:C01731",
+        "route_short_name": "R",
+        "route_long_name": "R"
+    },
+    {
+        "route_id": "IDFM:C01730",
+        "route_short_name": "P",
+        "route_long_name": "P"
+    },
+    {
+        "route_id": "IDFM:C01736",
+        "route_short_name": "N",
+        "route_long_name": "N"
+    },
+    {
+        "route_id": "IDFM:C01999",
+        "route_short_name": "T11",
+        "route_long_name": "T11"
+    },
+    {
+        "route_id": "IDFM:C01739",
+        "route_short_name": "J",
+        "route_long_name": "J"
+    },
+    {
+        "route_id": "IDFM:C01738",
+        "route_short_name": "K",
+        "route_long_name": "K"
+    },
+    {
+        "route_id": "IDFM:C01737",
+        "route_short_name": "H",
+        "route_long_name": "H"
+    },
+    {
+        "route_id": "IDFM:C01740",
+        "route_short_name": "L",
+        "route_long_name": "L"
+    },
+    {
+        "route_id": "IDFM:C01743",
+        "route_short_name": "B",
+        "route_long_name": "B"
+    },
+    {
+        "route_id": "IDFM:C01742",
+        "route_short_name": "A",
+        "route_long_name": "A"
+    },
+    {
+        "route_id": "IDFM:C01741",
+        "route_short_name": "U",
+        "route_long_name": "U"
+    },
+    {
+        "route_id": "IDFM:C02344",
+        "route_short_name": "T13",
+        "route_long_name": "T13"
+    },
+    {
+        "route_id": "IDFM:C01843",
+        "route_short_name": "T4",
+        "route_long_name": "T4"
+    },
+    {
+        "route_id": "IDFM:C01371",
+        "route_short_name": "1",
+        "route_long_name": "1"
+    },
+    {
+        "route_id": "IDFM:C01372",
+        "route_short_name": "2",
+        "route_long_name": "2"
+    },
+    {
+        "route_id": "IDFM:C01375",
+        "route_short_name": "5",
+        "route_long_name": "5"
+    },
+    {
+        "route_id": "IDFM:C01376",
+        "route_short_name": "6",
+        "route_long_name": "6"
+    },
+    {
+        "route_id": "IDFM:C01373",
+        "route_short_name": "3",
+        "route_long_name": "3"
+    },
+    {
+        "route_id": "IDFM:C01374",
+        "route_short_name": "4",
+        "route_long_name": "4"
+    },
+    {
+        "route_id": "IDFM:C01379",
+        "route_short_name": "9",
+        "route_long_name": "9"
+    },
+    {
+        "route_id": "IDFM:C01377",
+        "route_short_name": "7",
+        "route_long_name": "7"
+    },
+    {
+        "route_id": "IDFM:C01378",
+        "route_short_name": "8",
+        "route_long_name": "8"
+    },
+    {
+        "route_id": "IDFM:C01684",
+        "route_short_name": "T5",
+        "route_long_name": "T5"
+    },
+    {
+        "route_id": "IDFM:C01679",
+        "route_short_name": "T3b",
+        "route_long_name": "T3b"
+    },
+    {
+        "route_id": "IDFM:C00563",
+        "route_short_name": "CDG VAL",
+        "route_long_name": "CDG VAL"
+    },
+    {
+        "route_id": "IDFM:C02528",
+        "route_short_name": "T10",
+        "route_long_name": "T10"
+    },
+    {
+        "route_id": "IDFM:C01383",
+        "route_short_name": "13",
+        "route_long_name": "13"
+    },
+    {
+        "route_id": "IDFM:C01384",
+        "route_short_name": "14",
+        "route_long_name": "14"
+    },
+    {
+        "route_id": "IDFM:C01381",
+        "route_short_name": "11",
+        "route_long_name": "11"
+    },
+    {
+        "route_id": "IDFM:C01382",
+        "route_short_name": "12",
+        "route_long_name": "12"
+    },
+    {
+        "route_id": "IDFM:C01387",
+        "route_short_name": "7B",
+        "route_long_name": "7B"
+    },
+    {
+        "route_id": "IDFM:C01388",
+        "route_short_name": "ORLYVAL",
+        "route_long_name": "ORLYVAL"
+    },
+    {
+        "route_id": "IDFM:C01385",
+        "route_short_name": "FUN",
+        "route_long_name": "FUNICULAIRE"
+    },
+    {
+        "route_id": "IDFM:C01386",
+        "route_short_name": "3B",
+        "route_long_name": "3B"
+    },
+    {
+        "route_id": "IDFM:C01389",
+        "route_short_name": "T1",
+        "route_long_name": "T1"
+    },
+    {
+        "route_id": "IDFM:C01774",
+        "route_short_name": "T7",
+        "route_long_name": "T7"
+    },
+    {
+        "route_id": "IDFM:C02317",
+        "route_short_name": "T9",
+        "route_long_name": "T9"
+    },
+    {
+        "route_id": "IDFM:C01380",
+        "route_short_name": "10",
+        "route_long_name": "10"
+    },
+    {
+        "route_id": "IDFM:C01795",
+        "route_short_name": "T8",
+        "route_long_name": "T8"
+    },
+    {
+        "route_id": "IDFM:C01794",
+        "route_short_name": "T6",
+        "route_long_name": "T6"
+    },
+    {
+        "route_id": "IDFM:C01391",
+        "route_short_name": "T3a",
+        "route_long_name": "T3a"
+    },
+    {
+        "route_id": "IDFM:C01390",
+        "route_short_name": "T2",
+        "route_long_name": "T2"
+    }
+]
